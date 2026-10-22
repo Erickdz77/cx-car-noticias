@@ -14,6 +14,8 @@ jobs:
         with:
           python-version: "3.12"
       - run: python3 atualizar_noticias.py
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
       - name: Salvar se mudou
         run: |
           git config user.name "cx-car-bot"
