@@ -1,6 +1,38 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Primeiro híbrido da Chevrolet no Brasil, novo Captiva PHEV vai passar dos 1.000 km de autonomia",
+      "resumo": "SUV médio poderá ser carregado na tomada e usar gasolina em viagens longas; os mais de 1.000 km são de autonomia combinada",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812985/chevrolet-captiva-phev-1000-km/",
+      "data": "2026-10-22T22:12:43+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Toyota confirma estreia do novo SW4 em dezembro; Brasil vem depois",
+      "resumo": "SUV derivado da Hilux será revelado mundialmente em 1º de dezembro; produção na Argentina é esperada para 2027",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812945/toyota-confirma-data-novo-sw4/",
+      "data": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Fiat Fastback Turbo 200 2027 parte de R$ 117.990, mas perde potência e opcionais",
+      "resumo": "SUV cupê de entrada adota motor 1.0 turbo de 116 cv e transforma antigo kit de equipamentos em versão",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/testes/fiat-fastback-turbo-200-2027-parte-de-r-117-990-mas-perde-potencia-e-opcionais/",
+      "data": "2026-10-22T20:15:22+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Podcast Motor1 #337: nova VW Amarok ainda será Amarok sem o V6? ASSISTA!",
+      "resumo": "Picape híbrida deve superar 470 cv; episódio também discute a chegada de Lepas e iCaur e sua relação com a CAOA Chery",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/812979/podcast-motor1-jetour-compass-amarok/",
+      "data": "2026-10-22T20:12:38+00:00"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Fiat Titano ganha inédita cabine simples para virar papamóvel no Uruguai",
       "resumo": "Picape média da Stellantis produzida em Montevidéu recebe modificações estruturais para transportar o pontífice em visita oficial pelo país",
@@ -49,14 +81,6 @@
       "data": "2026-10-22T14:41:36+00:00"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Hyundai Tucson: compare a nova geração com a anterior",
-      "resumo": "Mudanças em todos os aspectos para o SUV; veja-o em comparação com a geração atual",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812933/hyundai-tucson-compare-nova-geracao/",
-      "data": "2026-10-22T14:41:31+00:00"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Honda confirma que Mitsubishi Triton será a base para sua picape média",
       "resumo": "Aliança entre marcas japonesas viabiliza comercial leve inédito para o Sudeste Asiático; modelo usará chassi de longarinas e motor turbodiesel",
@@ -65,36 +89,12 @@
       "data": "2026-10-22T13:40:58+00:00"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Honda Triton? Marca oficializa parceria com a Mitsubishi para ter picape média, que chega em 2028",
-      "resumo": "Honda e Mitsubishi fornecerão veículos para as linhas uma da outra começando pelo segmento de picapes médias",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812912/honda-picape-media-mitsubishi-triton/",
-      "data": "2026-10-22T13:36:23+00:00"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Novo Toyota SW4 2028 tem data de lançameno confirmada; veja detalhes",
       "resumo": "SUV de sete lugares terá sistema MHEV de 48V, novo pacote de segurança autônoma e continuará sendo fabricado na Argentina; chegada ao Brasil será em 2027.",
       "fonte": "Quatro Rodas",
       "link": "https://quatrorodas.abril.com.br/noticias/novo-toyota-sw4-2028-tem-data-de-lancameno-confirmada-veja-detalhes/",
       "data": "2026-10-22T12:47:37+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Honda CG 160 beira as 50 mil unidades em setembro: veja a lista com as 10 mais vendidas",
-      "resumo": "Ranking das motos mais emplacadas no mês passado tem apenas 3 motos que não são Honda",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812768/lista-motos-mais-vendidas-setembro/",
-      "data": "2026-10-22T12:00:00+00:00"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Marca da Volkswagen lança linha de acessórios que podem ser feitos em casa",
-      "resumo": "Arquivos gratuitos para impressão 3D incluem porta-copos, suportes para celular e organizadores para modelos atuais e antigos da Skoda",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/marca-da-volkswagen-lanca-linha-de-acessorios-que-podem-ser-feitos-em-casa/",
-      "data": "2026-10-22T10:00:34+00:00"
     }
   ]
 }
