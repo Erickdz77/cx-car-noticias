@@ -6,7 +6,7 @@ Config: fontes.json (lista de portais, limites e opções).
 Guarda só: título, resumo curto (do próprio feed), link da matéria original,
 fonte e data. Nunca copia a matéria inteira.
 """
-import json, re, html, sys, urllib.request
+import json, re, html, sys, os, hashlib, urllib.request, urllib.parse
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -88,6 +88,96 @@ def imagem_de(e):
     return ""
 
 
+def buscar_fotos(consulta, chave):
+    """Busca fotos de licença livre no Pexels (precisa de chave gratuita)."""
+    url = ("https://api.pexels.com/v1/search?query=" + urllib.parse.quote(consulta)
+           + "&per_page=30&orientation=landscape")
+    req = urllib.request.Request(url, headers={"Authorization": chave, "User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        dados = json.loads(r.read(3_000_000))
+    fotos = []
+    for f in dados.get("photos", []):
+        img = (f.get("src") or {}).get("landscape", "")
+        if img.startswith("https://images.pexels.com/"):
+            fotos.append({"imagem": img, "credito": f.get("photographer", "Pexels"),
+                          "credito_link": f.get("url", "https://www.pexels.com"),
+                          "fonte_foto": "Pexels", "fonte_foto_link": "https://www.pexels.com"})
+    return fotos
+
+
+UTM = "?utm_source=cx_car_noticias&utm_medium=referral"
+
+
+def buscar_fotos_unsplash(consulta, chave):
+    """Busca fotos no Unsplash (chave gratuita). Usa o link original da foto e guarda o crédito."""
+    url = ("https://api.unsplash.com/search/photos?query=" + urllib.parse.quote(consulta)
+           + "&per_page=30&orientation=landscape")
+    req = urllib.request.Request(url, headers={"Authorization": "Client-ID " + chave,
+                                               "Accept-Version": "v1", "User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        dados = json.loads(r.read(3_000_000))
+    fotos = []
+    for f in dados.get("results", []):
+        img = (f.get("urls") or {}).get("regular", "")
+        if not img.startswith("https://images.unsplash.com/"):
+            continue
+        u = f.get("user") or {}
+        perfil = (u.get("links") or {}).get("html", "https://unsplash.com")
+        dl = (f.get("links") or {}).get("download_location", "")
+        fotos.append({"imagem": img, "credito": u.get("name", "Unsplash"),
+                      "credito_link": perfil + UTM,
+                      "fonte_foto": "Unsplash", "fonte_foto_link": "https://unsplash.com/" + UTM,
+                      "dl": dl if dl.startswith("https://api.unsplash.com/") else ""})
+    return fotos
+
+
+def disparar_download(f, chave):
+    """O Unsplash pede que se avise quando uma foto é usada (regra da API)."""
+    if not f.get("dl"):
+        return
+    try:
+        req = urllib.request.Request(f["dl"], headers={"Authorization": "Client-ID " + chave, "User-Agent": UA})
+        urllib.request.urlopen(req, timeout=20).read(100_000)
+    except Exception:
+        pass
+
+
+def aplicar_fotos(noticias, conf, antigas):
+    # mantém a mesma foto de uma notícia entre uma rodada e outra
+    for n in noticias:
+        o = antigas.get(n["link"])
+        if o and "imagem" not in n:
+            n.update({k: o[k] for k in ("imagem", "credito", "credito_link", "fonte_foto", "fonte_foto_link") if k in o})
+    prov = (conf or {}).get("provedor", "unsplash")
+    chave = os.environ.get("PEXELS_API_KEY" if prov == "pexels" else "UNSPLASH_ACCESS_KEY", "").strip()
+    if not chave or not conf:
+        return
+    busca = buscar_fotos if prov == "pexels" else buscar_fotos_unsplash
+    cache, usadas = {}, {n["imagem"] for n in noticias if n.get("imagem")}
+    for n in noticias:
+        if n.get("imagem"):
+            continue
+        consulta = conf.get("consultas", {}).get(n["categoria"], conf.get("padrao", "sports car"))
+        if consulta not in cache:
+            try:
+                cache[consulta] = busca(consulta, chave)
+                print(f"OK      fotos '{consulta}': {len(cache[consulta])}")
+            except Exception as erro:
+                print(f"FALHOU  fotos '{consulta}': {erro}")
+                cache[consulta] = []
+        fotos = cache[consulta]
+        if not fotos:
+            continue
+        i = int(hashlib.md5(n["link"].encode()).hexdigest(), 16) % len(fotos)
+        for k in range(len(fotos)):
+            f = fotos[(i + k) % len(fotos)]
+            if f["imagem"] not in usadas:
+                break
+        usadas.add(f["imagem"])
+        disparar_download(f, chave)
+        n.update({k: v for k, v in f.items() if k != "dl"})
+
+
 def ler_feed(dados, fonte, cfg):
     raiz = ET.fromstring(dados)
     itens = [e for e in raiz.iter() if nome(e) in ("item", "entry")]
@@ -136,6 +226,13 @@ def principal():
         return 0
     todas.sort(key=lambda n: n["data"], reverse=True)
     todas = todas[: cfg.get("max_total", 30)]
+    antigas = {}
+    try:
+        antigo = json.loads((BASE / "noticias.json").read_text(encoding="utf-8"))
+        antigas = {n["link"]: n for n in antigo.get("noticias", []) if n.get("imagem") and n.get("credito")}
+    except Exception:
+        pass
+    aplicar_fotos(todas, cfg.get("fotos"), antigas)
     (BASE / "noticias.json").write_text(
         json.dumps({"noticias": todas}, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"noticias.json atualizado com {len(todas)} notícias.")

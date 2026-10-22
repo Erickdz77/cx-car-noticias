@@ -20,7 +20,7 @@ a{color:inherit;text-decoration:none}
 .brand img{width:56px;height:auto;display:block}
 .brand span{opacity:0;transition:opacity .6s ease}
 .brand.on span{opacity:1}
-.art{background:#050505;overflow:hidden}
+.art{background:#050505;overflow:hidden;position:relative}.cred{position:absolute;left:0;bottom:0;background:rgba(0,0,0,.7);color:#bdbdbd;font-size:11px;padding:3px 8px}.cred a{text-decoration:underline}
 .art svg{display:block;width:100%;height:auto}.art img{display:block;width:100%;aspect-ratio:2/1;object-fit:cover}
 .meta{font-size:13px;color:var(--mute)}
 .meta b{color:var(--acc);font-weight:500}
@@ -57,7 +57,7 @@ footer{margin-top:70px;padding:22px 0 30px;border-top:1px solid var(--line);font
 <div class="bar"><div id="chips" style="display:flex;gap:22px;flex-wrap:wrap"></div><input type="search" id="q" placeholder="Buscar" aria-label="Buscar notícia"></div>
 <section class="grid" id="grid"></section>
 </main>
-<footer><div class="wrap" style="padding:0">Prévia com notícias de exemplo. Cada notícia leva para a página da fonte original.</div></footer>
+<footer><div class="wrap" style="padding:0">Cada notícia leva para a página da fonte original. Fotos: <a href="https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral" target="_blank" rel="noopener" style="text-decoration:underline">Unsplash</a>.</div></footer>
 <script>
 let NEWS=[
 {c:'Supercarros',t:'Cupê de 800 cv aposta em câmbio manual e tração traseira',s:'O novo esportivo mira quem quer volante e pedais sem filtro, com produção limitada.',f:'Fonte exemplo A',h:2},
@@ -79,7 +79,7 @@ const $=s=>document.querySelector(s);
 const esc=x=>String(x??'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
 const ago=h=>h<1?'agora':h<24?'há '+h+' h':'há '+Math.round(h/24)+' d';
 let cat='Todas';
-function art(n,i){return n.img?`<img src="${esc(n.img)}" alt="" loading="lazy">`:car(i)}
+function art(n,i){return n.img?`<img src="${esc(n.img)}" alt="" loading="lazy">${n.cr?`<div class="cred">Foto: <a href="${esc(n.crl||'https://unsplash.com')}" target="_blank" rel="noopener">${esc(n.cr)}</a> / <a href="${esc(n.ffl||'https://unsplash.com')}" target="_blank" rel="noopener">${esc(n.ff||'Unsplash')}</a></div>`:''}`:car(i)}
 function href(n){return n.u?`href="${esc(n.u)}" target="_blank" rel="noopener"`:'href="#" onclick="return false"'}
 function render(){
  const q=$('#q').value.trim().toLowerCase();
@@ -97,7 +97,7 @@ $('#chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;cat=b.dat
 $('#q').oninput=render;
 build();
 fetch('noticias.json').then(r=>r.ok?r.json():Promise.reject()).then(d=>{
- const l=(d.noticias||d).map(x=>({c:x.categoria||'Notícias',t:x.titulo,s:x.resumo||'',f:x.fonte||'',u:x.link,img:x.imagem,h:x.data?Math.max(0,Math.round((Date.now()-new Date(x.data))/36e5)):0,d:x.data?+new Date(x.data):0})).filter(x=>x.t);
+ const l=(d.noticias||d).map(x=>({c:x.categoria||'Notícias',t:x.titulo,s:x.resumo||'',f:x.fonte||'',u:x.link,img:x.imagem,cr:x.credito,crl:x.credito_link,ff:x.fonte_foto,ffl:x.fonte_foto_link,h:x.data?Math.max(0,Math.round((Date.now()-new Date(x.data))/36e5)):0,d:x.data?+new Date(x.data):0})).filter(x=>x.t);
  if(l.length){l.sort((a,b)=>b.d-a.d);NEWS=l;build()}
 }).catch(()=>{});
 
