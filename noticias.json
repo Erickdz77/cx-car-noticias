@@ -1,13 +1,100 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Audi quer ‘turbo lag’ e mais barulho nos seus carros elétricos para agradar entusiastas",
+      "resumo": "Patente da marca alemã prevê transmitir vibrações do motor à cabine, simular o atraso de um turbo e até liberar aromas para tornar a condução mais emocionante",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/audi-quer-turbo-lag-e-mais-barulho-nos-seus-carros-eletricos-para-agradar-entusiastas/",
+      "data": "2026-10-22T00:00:33+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Stellantis quer detectar combustível adulterado e denunciar postos à ANP",
+      "resumo": "Patente registrada no Brasil prevê alertas no painel e envio de dados de GPS à agência reguladora, mas tecnologia ainda não tem previsão de estreia",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/stellantis-quer-detectar-combustivel-adulterado-e-denunciar-postos-a-anp/",
+      "data": "2026-10-21T22:00:34+00:00"
+    },
+    {
       "categoria": "Supercarros",
-      "titulo": "Exemplo: título da notícia aqui",
-      "resumo": "Resumo curto de uma ou duas frases.",
-      "fonte": "Nome da fonte",
-      "link": "https://link-da-noticia-original.com",
-      "imagem": "imagens/foto1.jpg",
-      "data": "2026-10-21T10:00:00-03:00"
+      "titulo": "Horse Powertrain investe R$ 200 milhões em fundição inédita no Paraná",
+      "resumo": "Novo sistema de fundição de alumínio abastecerá produção dos motor 1.0 e 1.3 turbo flex da Renault para o Brasil e exportação",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812827/horse-fundicao-motor-renault-flex/",
+      "data": "2026-10-21T20:54:21+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Omoda X é um SUV off-road com interior de Lamborghini que estreia em 2028",
+      "resumo": "Primeiro SUV off-road da marca adota linhas geométricas, tem tamanho de Omoda 7 e boa capacidade de imersão",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/omoda-x-conceito-suv-quadrado-design/",
+      "data": "2026-10-21T20:00:57+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Papa Leão XIV vai andar de Fiat Titano exclusiva em passagem pelo Uruguai; veja como ficou",
+      "resumo": "Configuração é feita exclusivamente para o Santo Padre, já que a picape não oferece cabine simples e nem é vendida naquele país",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812815/fiat-titano-papa-leao-xiv/",
+      "data": "2026-10-21T18:59:11+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Kia Tasman 2027 ganha versão mais equipada e preços agora variam de R$ 270 mil a R$ 320 mil",
+      "resumo": "Nova configuração PGL acrescenta assistências e conforto, mantendo o motor diesel de 210 cv e a tração 4x4",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812814/kia-tasman-ganha-nova-versao/",
+      "data": "2026-10-21T18:44:05+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Moto elétrica com extensor de autonomia por menos de R$ 2 mil: essa é a Cinnox da Chery",
+      "resumo": "Empresa teria obtido autorização do governo chinês para produzir o que seria a primeira moto elétrica de autonomia estendida do mundo",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812805/chery-primeira-moto-eletrica-erev/",
+      "data": "2026-10-21T17:31:21+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "BYD Sealion 06 já está no Brasil e adianta o futuro do Song Plus",
+      "resumo": "Flagrado no Espírito Santo, SUV médio tem a quinta geração da motorização híbrida da marca e ficaria posicionado entre o Song Plus nacional e o Atto 8",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/byd-sealion-06-flagra-testes-brasil-motor-autonomia/",
+      "data": "2026-10-21T17:30:31+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "GAC GS9 é um SUV híbrido de seis lugares ‘exagerado’ até na tecnologia",
+      "resumo": "O GAC GS9 é um SUV de grande porte que entrega não só espaço a bordo, mas conforto de carro de luxo e desempenho de esportivo",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/testes/gac-gs9-e-um-suv-hibrido-de-seis-lugares-exagerado-ate-na-tecnologia/",
+      "data": "2026-10-21T17:00:59+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "No Brasil em 2027, Omoda 4 terá teto que promete deixar cabine até 10°C mais fria",
+      "resumo": "Solução anunciada pela fabricante tenta amenizar o calor acumulado no interior quando o carro fica ao sol",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812781/omoda-4-brasil-teto-termico/",
+      "data": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "VW Polo Track 2027 ganha novos itens de série e fica R$ 1.300 mais caro",
+      "resumo": "Sensores de estacionamento e vidros elétricos traseiros estão entre as novidades que fazem o modelo chegar aos R$ 97.990",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/vw-polo-track-2027-ganha-novos-itens-de-serie-e-fica-r-1-300-mais-caro/",
+      "data": "2026-10-21T15:00:06+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Omoda 7 é renovado, chega ao Brasil em 2027 e quer ser super-híbrido que não carrega na tomada",
+      "resumo": "SUV maior é híbrido pleno com bateria grande; futuro lançamento, Omoda 4 ganhará tecnologias de isolamento térmico",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812777/omoda-7-brasil-2027-h%C3%ADbrido/",
+      "data": "2026-10-21T15:00:00+00:00"
     }
   ]
 }
