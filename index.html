@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CX Car Notícias</title>
+<link rel="icon" href="logo.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500;700;800&family=Public+Sans:wght@400;500&display=swap">
+<style>
+:root{--bg:#080808;--line:#262626;--text:#f4f4f2;--mute:#8d8d8d;--acc:#ff2d26;--red:#e10600;--hd:'Saira Condensed','Arial Narrow',sans-serif;--bd:'Public Sans',system-ui,sans-serif;color-scheme:dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--text);font:400 16px/1.5 var(--bd)}
+body.lock{overflow:hidden}
+a{color:inherit;text-decoration:none}
+:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+.top{display:flex;justify-content:flex-end;padding:22px 0 30px}
+.brand{display:flex;align-items:center;gap:10px;background:none;border:0;color:var(--text);cursor:pointer;padding:0;font:700 24px/1 var(--hd)}
+.brand img{width:56px;height:auto;display:block}
+.brand span{opacity:0;transition:opacity .6s ease}
+.brand.on span{opacity:1}
+.art{background:#050505;overflow:hidden}
+.art svg{display:block;width:100%;height:auto}.art img{display:block;width:100%;aspect-ratio:2/1;object-fit:cover}
+.meta{font-size:13px;color:var(--mute)}
+.meta b{color:var(--acc);font-weight:500}
+.lead .art{max-height:420px}
+.lead .art svg{max-height:420px}
+.lead h1{font:800 clamp(34px,6vw,60px)/1 var(--hd);margin:18px 0 10px;max-width:20ch}
+.lead p{margin:0 0 12px;color:var(--mute);max-width:56ch}
+.bar{display:flex;gap:22px;flex-wrap:wrap;align-items:center;margin:56px 0 24px;border-top:1px solid var(--line);padding-top:18px}
+.chip{font:500 15px var(--bd);background:none;color:var(--mute);border:0;border-bottom:2px solid transparent;padding:4px 0;cursor:pointer}
+.chip[aria-pressed=true]{color:var(--text);border-bottom-color:var(--red)}
+.chip:hover{color:var(--text)}
+input[type=search]{margin-left:auto;background:none;border:0;border-bottom:1px solid var(--line);color:var(--text);padding:5px 0;font:400 15px var(--bd);width:min(100%,200px);border-radius:0}
+input[type=search]:focus{border-bottom-color:var(--red);outline:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:34px 24px}
+.card .art{margin-bottom:12px}
+.card h3{font:700 24px/1.08 var(--hd);margin:4px 0 0}
+.card:hover h3,.lead:hover h1{color:var(--acc)}
+.empty{padding:30px 0;color:var(--mute)}
+footer{margin-top:70px;padding:22px 0 30px;border-top:1px solid var(--line);font-size:13px;color:var(--mute)}
+#introBg{position:fixed;inset:0;background:var(--bg);z-index:50}
+#introLogo{position:fixed;inset:0;margin:auto;width:min(60vw,260px);height:auto;z-index:51;clip-path:inset(0 100% 0 0)}
+.off{display:none}
+@media(max-width:600px){input[type=search]{margin-left:0;width:100%}}
+</style>
+</head>
+<body class="lock">
+<div id="introBg"></div>
+<img id="introLogo" src="logo.png" alt="">
+<header class="wrap"><div class="top">
+<button class="brand" id="brand" title="Rever animação de entrada" aria-label="CX Car Notícias"><img id="brandLogo" src="logo.png" alt="CX"><span id="brandTxt">Car Notícias</span></button>
+</div></header>
+<main class="wrap">
+<section class="lead" id="hero"></section>
+<div class="bar"><div id="chips" style="display:flex;gap:22px;flex-wrap:wrap"></div><input type="search" id="q" placeholder="Buscar" aria-label="Buscar notícia"></div>
+<section class="grid" id="grid"></section>
+</main>
+<footer><div class="wrap" style="padding:0">Prévia com notícias de exemplo. Cada notícia leva para a página da fonte original.</div></footer>
+<script>
+let NEWS=[
+{c:'Supercarros',t:'Cupê de 800 cv aposta em câmbio manual e tração traseira',s:'O novo esportivo mira quem quer volante e pedais sem filtro, com produção limitada.',f:'Fonte exemplo A',h:2},
+{c:'Fórmula 1',t:'Equipes testam novo pacote aerodinâmico antes da próxima etapa',s:'Mudanças no assoalho prometem mais estabilidade em curvas de alta velocidade.',f:'Fonte exemplo B',h:4},
+{c:'Elétricos',t:'Esportivo elétrico bate recorde de volta em circuito europeu',s:'O tempo ficou abaixo dos rivais a combustão da mesma faixa de preço.',f:'Fonte exemplo A',h:6},
+{c:'Lançamentos',t:'Hatch esportivo ganha versão com 300 cv e suspensão ajustável',s:'Pacote inclui freios maiores e modo pista com controle de tração menos intrusivo.',f:'Fonte exemplo C',h:9},
+{c:'Clássicos',t:'Leilão reúne esportivos dos anos 90 com preços em alta',s:'Modelos com pouca quilometragem e histórico completo lideram as ofertas.',f:'Fonte exemplo B',h:13},
+{c:'Tuning',t:'Preparação leve: como ganhar desempenho sem perder confiabilidade',s:'Mapeamento, admissão e escape são o ponto de partida mais comum entre preparadores.',f:'Fonte exemplo C',h:20},
+{c:'Fórmula 1',t:'Estreante surpreende e termina a corrida entre os dez primeiros',s:'Estratégia de pneus foi decisiva para a posição final do piloto novato.',f:'Fonte exemplo A',h:27},
+{c:'Supercarros',t:'Marca italiana mostra o sucessor de seu ícone de motor V12',s:'Híbrido, mais leve e com som que promete manter a tradição.',f:'Fonte exemplo B',h:31},
+{c:'Elétricos',t:'Nova bateria promete recarga rápida sem perder fôlego em pista',s:'Fabricante diz que o sistema aguenta voltas seguidas sem queda de potência.',f:'Fonte exemplo C',h:40}
+];
+function car(i){
+ const k=i%3,red=k!==1,body=red?'#e10600':'#1c1c1c',ang=[-18,12,-6][k],x=[120,40,200][k];
+ return `<svg viewBox="0 0 300 150" role="img" aria-label="Imagem de exemplo de carro esportivo"><rect width="300" height="150" fill="#050505"/><g transform="skewX(${ang})"><rect x="${x}" y="-10" width="46" height="170" fill="#e10600" opacity=".85"/><rect x="${x+58}" y="-10" width="10" height="170" fill="#e10600" opacity=".5"/></g><rect y="112" width="300" height="38" fill="#0e0e0e"/><path d="M22 106 L28 90 Q44 80 84 76 L116 54 Q136 44 176 44 L212 48 Q240 56 256 74 L282 80 Q294 84 294 106 Z" fill="${body}" stroke="#ff4d46" stroke-width="1.5"/><path d="M122 58 Q138 50 172 50 L204 53 Q224 60 236 74 L112 74 Z" fill="#0a0a0a" stroke="#333"/><circle cx="82" cy="108" r="19" fill="#0a0a0a" stroke="#555" stroke-width="2"/><circle cx="82" cy="108" r="8" fill="#888"/><circle cx="232" cy="108" r="19" fill="#0a0a0a" stroke="#555" stroke-width="2"/><circle cx="232" cy="108" r="8" fill="#888"/><text x="10" y="142" font-family="Arial,sans-serif" font-size="9" fill="#777">imagem de exemplo</text></svg>`}
+
+
+const $=s=>document.querySelector(s);
+const esc=x=>String(x??'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+const ago=h=>h<1?'agora':h<24?'há '+h+' h':'há '+Math.round(h/24)+' d';
+let cat='Todas';
+function art(n,i){return n.img?`<img src="${esc(n.img)}" alt="" loading="lazy">`:car(i)}
+function href(n){return n.u?`href="${esc(n.u)}" target="_blank" rel="noopener"`:'href="#" onclick="return false"'}
+function render(){
+ const q=$('#q').value.trim().toLowerCase();
+ const list=NEWS.filter(n=>(cat==='Todas'||n.c===cat)&&(n.t+' '+n.s).toLowerCase().includes(q));
+ $('#grid').innerHTML=list.length?list.map(n=>`<article class="card"><div class="art">${art(n,NEWS.indexOf(n))}</div><div class="meta"><b>${esc(n.c)}</b> · ${ago(n.h)} · ${esc(n.f)}</div><h3><a ${href(n)}>${esc(n.t)}</a></h3></article>`).join(''):'<p class="empty">Nenhuma notícia encontrada. Tente outra palavra ou escolha “Todas”.</p>';
+}
+function build(){
+ const a=NEWS[0];
+ $('#hero').innerHTML=`<div class="art">${art(a,0)}</div><div class="meta" style="margin-top:18px"><b>${esc(a.c)}</b> · ${ago(a.h)} · ${esc(a.f)}</div><h1><a ${href(a)}>${esc(a.t)}</a></h1><p>${esc(a.s)}</p>`;
+ const cats=['Todas',...new Set(NEWS.map(n=>n.c))];
+ $('#chips').innerHTML=cats.map(c=>`<button class="chip" aria-pressed="${c===cat}" data-c="${esc(c)}">${esc(c)}</button>`).join('');
+ render();
+}
+$('#chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;cat=b.dataset.c;document.querySelectorAll('.chip').forEach(x=>x.setAttribute('aria-pressed',x===b));render()};
+$('#q').oninput=render;
+build();
+fetch('noticias.json').then(r=>r.ok?r.json():Promise.reject()).then(d=>{
+ const l=(d.noticias||d).map(x=>({c:x.categoria||'Notícias',t:x.titulo,s:x.resumo||'',f:x.fonte||'',u:x.link,img:x.imagem,h:x.data?Math.max(0,Math.round((Date.now()-new Date(x.data))/36e5)):0,d:x.data?+new Date(x.data):0})).filter(x=>x.t);
+ if(l.length){l.sort((a,b)=>b.d-a.d);NEWS=l;build()}
+}).catch(()=>{});
+
+const SOMB64='';
+const SOMP=SOMB64?Promise.resolve(Uint8Array.from(atob(SOMB64),x=>x.charCodeAt(0)).buffer):fetch('som.mp3').then(r=>r.ok&&/audio|octet/.test(r.headers.get('content-type')||'')?r.arrayBuffer():null).catch(()=>null);
+function noise(c,sec){const b=c.createBuffer(1,c.sampleRate*sec,c.sampleRate),d=b.getChannelData(0);for(let i=0;i<d.length;i++)d[i]=Math.random()*2-1;const s=c.createBufferSource();s.buffer=b;return s}
+function curve(k){const n=2048,a=new Float32Array(n);for(let i=0;i<n;i++){const x=i*2/n-1;a[i]=(1+k)*x/(1+k*Math.abs(x))}return a}
+function synth(c){try{
+ const t=c.currentTime,end=t+2.9;
+ const comp=c.createDynamicsCompressor();comp.connect(c.destination);
+ const m=c.createGain();m.gain.setValueAtTime(0,t);m.gain.linearRampToValueAtTime(.7,t+.12);m.gain.setValueAtTime(.7,t+1.9);m.gain.exponentialRampToValueAtTime(.001,end-.1);m.connect(comp);
+ const rev=(p,k)=>{p.setValueAtTime(70*k,t);p.exponentialRampToValueAtTime(380*k,t+1.45);p.exponentialRampToValueAtTime(130*k,t+2.6)};
+ const sh=c.createWaveShaper();sh.curve=curve(30);sh.oversample='2x';
+ const lp=c.createBiquadFilter();lp.type='lowpass';lp.Q.value=1.5;lp.frequency.setValueAtTime(350,t);lp.frequency.exponentialRampToValueAtTime(2600,t+1.45);lp.frequency.exponentialRampToValueAtTime(700,t+2.6);
+ const mod=c.createGain();mod.gain.value=.75;
+ const lfo=c.createOscillator(),ld=c.createGain();ld.gain.value=.25;rev(lfo.frequency,.5);lfo.connect(ld).connect(mod.gain);lfo.start(t);lfo.stop(end);
+ [['sawtooth',1,0,.3],['sawtooth',1,14,.3],['square',.5,0,.25]].forEach(([ty,k,det,v])=>{const o=c.createOscillator(),g=c.createGain();o.type=ty;o.detune.value=det;rev(o.frequency,k);g.gain.value=v;o.connect(g).connect(sh);o.start(t);o.stop(end)});
+ sh.connect(lp);lp.connect(mod);mod.connect(m);
+ const n=noise(c,3),nl=c.createBiquadFilter(),ng=c.createGain();nl.type='lowpass';nl.frequency.value=500;ng.gain.value=.18;n.connect(nl).connect(ng).connect(m);n.start(t);
+ const w=c.createOscillator(),wg=c.createGain();w.type='sine';w.frequency.setValueAtTime(1500,t+.2);w.frequency.exponentialRampToValueAtTime(5200,t+1.5);
+ wg.gain.setValueAtTime(0,t+.2);wg.gain.linearRampToValueAtTime(.03,t+1.4);wg.gain.setValueAtTime(.03,t+1.5);wg.gain.exponentialRampToValueAtTime(.001,t+1.9);w.connect(wg).connect(m);w.start(t);w.stop(t+2);
+ const p=noise(c,1.2),pb=c.createBiquadFilter(),pg=c.createGain();pb.type='bandpass';pb.frequency.value=2200;pb.Q.value=.6;
+ pg.gain.setValueAtTime(0,t+1.5);for(let k=0;k<3;k++){pg.gain.linearRampToValueAtTime(.4,t+1.52+k*.08);pg.gain.linearRampToValueAtTime(.08,t+1.56+k*.08)}
+ pg.gain.linearRampToValueAtTime(.35,t+1.78);pg.gain.exponentialRampToValueAtTime(.001,t+2.4);p.connect(pb).connect(pg).connect(m);p.start(t+1.5);
+}catch(e){}}
+function sound(c){SOMP.then(buf=>{if(buf){c.decodeAudioData(buf.slice(0)).then(b=>{const s=c.createBufferSource(),g=c.createGain();s.buffer=b;g.gain.value=.3;s.connect(g).connect(c.destination);s.start()}).catch(()=>synth(c))}else synth(c)})}
+let AC=null,T0=0;
+function newCtx(){try{AC&&AC.close&&AC.close()}catch(e){}try{const C=window.AudioContext||window.webkitAudioContext;AC=C?new C():null}catch(e){AC=null}return AC}
+function unlock(){if(!AC||AC.state==='running')return;if(performance.now()-T0<9000)AC.resume();else{try{AC.close()}catch(e){}}}
+['pointerdown','keydown','touchstart'].forEach(e=>addEventListener(e,unlock,{passive:true}));
+
+const iL=$('#introLogo'),iB=$('#introBg'),bL=$('#brandLogo'),br=$('#brand'),bd=document.body;
+function end(){iL.classList.add('off');iB.classList.add('off');bL.style.opacity=1;br.classList.add('on');bd.classList.remove('lock')}
+function play(){
+ window.scrollTo(0,0);
+ if(matchMedia('(prefers-reduced-motion: reduce)').matches){end();return}
+ T0=performance.now();const c=newCtx();if(c){try{c.resume().catch(()=>{})}catch(e){}sound(c)}
+ iL.classList.remove('off');iB.classList.remove('off');iL.style.clipPath='';
+ bd.classList.add('lock');bL.style.opacity=0;br.classList.remove('on');iB.style.opacity=1;
+ iL.animate([{clipPath:'inset(0 100% 0 0)',opacity:.4,filter:'blur(6px)'},{clipPath:'inset(0 0% 0 0)',opacity:1,filter:'blur(0)'}],{duration:1100,easing:'cubic-bezier(.6,0,.2,1)',fill:'forwards'}).finished.then(()=>new Promise(r=>setTimeout(r,400))).then(()=>{
+  const s=iL.getBoundingClientRect(),t=bL.getBoundingClientRect();
+  const dx=t.left+t.width/2-(s.left+s.width/2),dy=t.top+t.height/2-(s.top+s.height/2),k=t.width/s.width;
+  iB.animate([{opacity:1},{opacity:0}],{duration:900,easing:'ease',fill:'forwards'});
+  return iL.animate([{transform:'none'},{transform:`translate(${dx}px,${dy}px) scale(${k})`}],{duration:900,easing:'cubic-bezier(.7,0,.2,1)',fill:'forwards'}).finished;
+ }).then(end).catch(end);
+}
+br.onclick=play;
+if(matchMedia('(prefers-reduced-motion: reduce)').matches){end()}
+else Promise.race([Promise.all([document.fonts?document.fonts.ready:0,SOMP]),new Promise(r=>setTimeout(r,1500))]).then(play);
+</script>
+</body>
+</html>

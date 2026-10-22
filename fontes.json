@@ -1,0 +1,14 @@
+{
+  "max_por_fonte": 6,
+  "max_total": 30,
+  "dias": 10,
+  "tamanho_resumo": 180,
+  "usar_imagens_da_fonte": false,
+  "fontes": [
+    {"nome": "Quatro Rodas", "categoria": "Lançamentos", "url": "https://quatrorodas.abril.com.br/feed/", "ativo": true, "verificado": false},
+    {"nome": "Grande Prêmio", "categoria": "Fórmula 1", "url": "https://www.grandepremio.com.br/feed/", "ativo": true, "verificado": false},
+    {"nome": "Motor1 Brasil", "categoria": "Supercarros", "url": "https://motor1.uol.com.br/rss/articles/all/", "ativo": true, "verificado": false},
+    {"nome": "Autoesporte", "categoria": "Lançamentos", "url": "https://autoesporte.globo.com/rss/ultimas/feed.xml", "ativo": true, "verificado": false},
+    {"nome": "F1Technical", "categoria": "Fórmula 1", "url": "https://www.f1technical.net/rss/news.xml", "ativo": true, "verificado": true}
+  ]
+}

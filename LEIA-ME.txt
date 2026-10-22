@@ -1,0 +1,19 @@
+CX CAR NOTÍCIAS - como usar
+
+1) ADICIONAR NOTÍCIAS
+Abra o arquivo noticias.json e copie o bloco entre chaves { } para cada notícia nova.
+Campos: categoria, titulo, resumo, fonte, link (página da notícia original), imagem, data.
+O site ordena sozinho da mais nova para a mais antiga. Se o arquivo estiver vazio ou com erro, o site mostra as notícias de exemplo.
+
+2) IMAGENS
+Coloque as fotos na pasta imagens e escreva o caminho no campo imagem (ex.: "imagens/foto1.jpg").
+Use só imagens que você tem direito de usar (fotos suas, de assessorias de imprensa liberadas ou de bancos gratuitos com licença).
+Sem o campo imagem, aparece a ilustração de exemplo.
+
+3) COLOCAR NO AR (grátis)
+Opção simples: acesse app.netlify.com/drop e arraste esta pasta inteira. O site recebe um link público.
+Outras opções: Cloudflare Pages ou GitHub Pages. Depois você pode ligar um domínio próprio.
+
+4) SOM DA ANIMAÇÃO
+O arquivo som.mp3 desta pasta toca no início da animação. Para trocar o som, substitua o arquivo mantendo o nome som.mp3 (o ideal é ter uns 3 a 4 segundos).
+O site tenta tocar o som sozinho ao abrir. Alguns navegadores (principalmente no celular) bloqueiam som automático; nesses casos a animação roda sem som e o áudio toca no primeiro toque na tela.

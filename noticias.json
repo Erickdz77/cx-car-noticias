@@ -1,0 +1,13 @@
+{
+  "noticias": [
+    {
+      "categoria": "Supercarros",
+      "titulo": "Exemplo: título da notícia aqui",
+      "resumo": "Resumo curto de uma ou duas frases.",
+      "fonte": "Nome da fonte",
+      "link": "https://link-da-noticia-original.com",
+      "imagem": "imagens/foto1.jpg",
+      "data": "2026-10-21T10:00:00-03:00"
+    }
+  ]
+}

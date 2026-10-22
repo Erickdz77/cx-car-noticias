@@ -1,0 +1,23 @@
+CX CAR NOTÍCIAS - ATUALIZAÇÃO AUTOMÁTICA (sem servidor, grátis)
+
+COMO FUNCIONA
+1) O arquivo fontes.json lista os portais (feeds RSS).
+2) O robô atualizar_noticias.py lê esses feeds e escreve o noticias.json com: título, resumo curto, fonte, link da matéria original e data.
+3) O GitHub roda o robô sozinho a cada 30 minutos (arquivo .github/workflows/atualizar-noticias.yml) e salva o noticias.json novo.
+4) O Netlify (ou Cloudflare Pages) vê a mudança e republica o site sozinho.
+
+PASSO A PASSO
+A) Crie uma conta grátis em github.com e um repositório novo (ex.: cx-car-noticias).
+B) Envie TODOS os arquivos desta pasta para o repositório (inclusive a pasta oculta .github).
+C) Em netlify.com, escolha "Add new site > Import from Git" e selecione esse repositório. Pronto: o site fica no ar e se republica a cada mudança.
+D) No GitHub, aba Actions > "Atualizar noticias" > Run workflow, para rodar a primeira vez na hora.
+E) Abra o resultado do robô (aba Actions > clique na execução). Cada portal aparece como OK ou FALHOU. Corrija ou desative (ativo: false) os que falharem.
+
+TESTAR NO COMPUTADOR (opcional)
+python3 atualizar_noticias.py   (precisa ter o Python instalado e internet)
+
+CUIDADOS
+- Só use portais cujos termos permitam usar o feed RSS; no site fica apenas título, resumo curto e link para a matéria original.
+- Para usar imagens dos portais troque "usar_imagens_da_fonte" para true SOMENTE se o portal permitir. O padrão é false (ilustração de exemplo).
+- Misture com notícias suas: pode editar o noticias.json à mão, mas o robô reescreve o arquivo a cada rodada. Se quiser notícias próprias fixas, me peça que eu separo em outro arquivo.
+- Os endereços de feed em fontes.json marcados com "verificado": false são os endereços usuais de cada portal e precisam ser confirmados na primeira execução.
