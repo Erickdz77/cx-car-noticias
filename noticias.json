@@ -2,6 +2,22 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Marca da Volkswagen lança linha de acessórios que podem ser feitos em casa",
+      "resumo": "Arquivos gratuitos para impressão 3D incluem porta-copos, suportes para celular e organizadores para modelos atuais e antigos da Skoda",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/marca-da-volkswagen-lanca-linha-de-acessorios-que-podem-ser-feitos-em-casa/",
+      "data": "2026-10-22T10:00:34+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "CNH do Brasil: como consultar o histórico da sua carteira pelo aplicativo",
+      "resumo": "O aplicativo mostra as CNHs emitidas em seu nome, com categorias e estados emissores",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/cnh-do-brasil-consultar-historico-carteira-aplicativo/",
+      "data": "2026-10-22T08:00:57+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Audi quer ‘turbo lag’ e mais barulho nos seus carros elétricos para agradar entusiastas",
       "resumo": "Patente da marca alemã prevê transmitir vibrações do motor à cabine, simular o atraso de um turbo e até liberar aromas para tornar a condução mais emocionante",
       "fonte": "Quatro Rodas",
@@ -65,28 +81,12 @@
       "data": "2026-10-21T17:30:31+00:00"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "GAC GS9 é um SUV híbrido de seis lugares ‘exagerado’ até na tecnologia",
-      "resumo": "O GAC GS9 é um SUV de grande porte que entrega não só espaço a bordo, mas conforto de carro de luxo e desempenho de esportivo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/testes/gac-gs9-e-um-suv-hibrido-de-seis-lugares-exagerado-ate-na-tecnologia/",
-      "data": "2026-10-21T17:00:59+00:00"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "No Brasil em 2027, Omoda 4 terá teto que promete deixar cabine até 10°C mais fria",
       "resumo": "Solução anunciada pela fabricante tenta amenizar o calor acumulado no interior quando o carro fica ao sol",
       "fonte": "Motor1 Brasil",
       "link": "https://motor1.uol.com.br/news/812781/omoda-4-brasil-teto-termico/",
       "data": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "VW Polo Track 2027 ganha novos itens de série e fica R$ 1.300 mais caro",
-      "resumo": "Sensores de estacionamento e vidros elétricos traseiros estão entre as novidades que fazem o modelo chegar aos R$ 97.990",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-polo-track-2027-ganha-novos-itens-de-serie-e-fica-r-1-300-mais-caro/",
-      "data": "2026-10-21T15:00:06+00:00"
     },
     {
       "categoria": "Supercarros",
