@@ -2,6 +2,46 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Fiat Titano ganha inédita cabine simples para virar papamóvel no Uruguai",
+      "resumo": "Picape média da Stellantis produzida em Montevidéu recebe modificações estruturais para transportar o pontífice em visita oficial pelo país",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/fiat-titano-ganha-inedita-cabine-simples-para-virar-papamovel-no-uruguai/",
+      "data": "2026-10-22T18:03:11+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Teste: GAC Aion UT mostra como os elétricos podem salvar os hatches",
+      "resumo": "Elétrico de R$ 159.990 vai de 0 a 100 km/h em 7 segundos, tem cabine de hatch médio e equipamentos de SUVs mais caros",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/reviews/812301/teste-gac-aion-ut-eletrico/",
+      "data": "2026-10-22T17:40:31+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Arcfox T1: concessionárias anunciam pré-venda e vazam especificações do rival do BYD Dolphin",
+      "resumo": "Comunicações de concessionárias chegam a clientes anunciando o início das reservas para o novo elétrico da chinesa BAIC",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812965/arcfox-t1-pre-venda-brasil/",
+      "data": "2026-10-22T17:36:05+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "CEO da Stellantis pede desculpas por defeitos em motores com correia banhada a óleo",
+      "resumo": "Antonio Filosa admite falhas crônicas na correia banhada a óleo na Europa; no Brasil, Peugeot 208 antigo exigiu plano de revisões mais rigoroso",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/ceo-da-stellantis-pede-desculpas-por-defeitos-em-motores-com-correia-banhada-a-oleo/",
+      "data": "2026-10-22T16:13:24+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Novo Corsa entra nos planos da Stellantis para o futuro, que ainda incluem uma perua para Opel",
+      "resumo": "No Salão de Paris 2026, encontramos Florian Huettl, CEO da Opel, que nos contou alguns detalhes sobre o futuro da marca",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812931/opel-stellantis-novo-corsa-futuro/",
+      "data": "2026-10-22T16:00:00+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Picape Kia Tasman ganha versão com sistemas de segurança e regalias por R$ 319.990",
       "resumo": "Nova versão aposta em pacote completo de segurança e cabine com quase 30 polegadas de telas digitais",
       "fonte": "Quatro Rodas",
@@ -26,7 +66,7 @@
     },
     {
       "categoria": "Supercarros",
-      "titulo": "Oficial: Honda terá sua primeira picape média até 2028 usando a base da Mitsubishi Triton",
+      "titulo": "Honda Triton? Marca oficializa parceria com a Mitsubishi para ter picape média, que chega em 2028",
       "resumo": "Honda e Mitsubishi fornecerão veículos para as linhas uma da outra começando pelo segmento de picapes médias",
       "fonte": "Motor1 Brasil",
       "link": "https://motor1.uol.com.br/news/812912/honda-picape-media-mitsubishi-triton/",
@@ -49,52 +89,12 @@
       "data": "2026-10-22T12:00:00+00:00"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Antes de virar nacional, Geely EX2 chega a 1 milhão de unidades produzidas em dois anos",
-      "resumo": "Últimas 200 mil unidades saíram em cerca de dois meses; hatch tem feito sucesso também por aqui e será feito no Paraná",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812797/geely-ex2-um-milhao-unidades/",
-      "data": "2026-10-22T11:00:00+00:00"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Marca da Volkswagen lança linha de acessórios que podem ser feitos em casa",
       "resumo": "Arquivos gratuitos para impressão 3D incluem porta-copos, suportes para celular e organizadores para modelos atuais e antigos da Skoda",
       "fonte": "Quatro Rodas",
       "link": "https://quatrorodas.abril.com.br/noticias/marca-da-volkswagen-lanca-linha-de-acessorios-que-podem-ser-feitos-em-casa/",
       "data": "2026-10-22T10:00:34+00:00"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "CNH do Brasil: como consultar o histórico da sua carteira pelo aplicativo",
-      "resumo": "O aplicativo mostra as CNHs emitidas em seu nome, com categorias e estados emissores",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/cnh-do-brasil-consultar-historico-carteira-aplicativo/",
-      "data": "2026-10-22T08:00:57+00:00"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Audi quer ‘turbo lag’ e mais barulho nos seus carros elétricos para agradar entusiastas",
-      "resumo": "Patente da marca alemã prevê transmitir vibrações do motor à cabine, simular o atraso de um turbo e até liberar aromas para tornar a condução mais emocionante",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/audi-quer-turbo-lag-e-mais-barulho-nos-seus-carros-eletricos-para-agradar-entusiastas/",
-      "data": "2026-10-22T00:00:33+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Horse Powertrain investe R$ 200 milhões em fundição inédita no Paraná",
-      "resumo": "Novo sistema de fundição de alumínio abastecerá produção dos motor 1.0 e 1.3 turbo flex da Renault para o Brasil e exportação",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812827/horse-fundicao-motor-renault-flex/",
-      "data": "2026-10-21T20:54:21+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Papa Leão XIV vai andar de Fiat Titano exclusiva em passagem pelo Uruguai; veja como ficou",
-      "resumo": "Configuração é feita exclusivamente para o Santo Padre, já que a picape não oferece cabine simples e nem é vendida naquele país",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812815/fiat-titano-papa-leao-xiv/",
-      "data": "2026-10-21T18:59:11+00:00"
     }
   ]
 }
