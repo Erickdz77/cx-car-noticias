@@ -2,6 +2,62 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Picape Kia Tasman ganha versão com sistemas de segurança e regalias por R$ 319.990",
+      "resumo": "Nova versão aposta em pacote completo de segurança e cabine com quase 30 polegadas de telas digitais",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/picape-kia-tasman-ganha-versao-com-sistemas-de-seguranca-e-regalias-por-r-319-990/",
+      "data": "2026-10-22T14:41:36+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Hyundai Tucson: compare a nova geração com a anterior",
+      "resumo": "Mudanças em todos os aspectos para o SUV; veja-o em comparação com a geração atual",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812933/hyundai-tucson-compare-nova-geracao/",
+      "data": "2026-10-22T14:41:31+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Honda confirma que Mitsubishi Triton será a base para sua picape média",
+      "resumo": "Aliança entre marcas japonesas viabiliza comercial leve inédito para o Sudeste Asiático; modelo usará chassi de longarinas e motor turbodiesel",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/honda-confirma-que-mitsubishi-triton-sera-a-base-para-sua-picape-media/",
+      "data": "2026-10-22T13:40:58+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Oficial: Honda terá sua primeira picape média até 2028 usando a base da Mitsubishi Triton",
+      "resumo": "Honda e Mitsubishi fornecerão veículos para as linhas uma da outra começando pelo segmento de picapes médias",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812912/honda-picape-media-mitsubishi-triton/",
+      "data": "2026-10-22T13:36:23+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Novo Toyota SW4 2028 tem data de lançameno confirmada; veja detalhes",
+      "resumo": "SUV de sete lugares terá sistema MHEV de 48V, novo pacote de segurança autônoma e continuará sendo fabricado na Argentina; chegada ao Brasil será em 2027.",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/novo-toyota-sw4-2028-tem-data-de-lancameno-confirmada-veja-detalhes/",
+      "data": "2026-10-22T12:47:37+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Honda CG 160 beira as 50 mil unidades em setembro: veja a lista com as 10 mais vendidas",
+      "resumo": "Ranking das motos mais emplacadas no mês passado tem apenas 3 motos que não são Honda",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812768/lista-motos-mais-vendidas-setembro/",
+      "data": "2026-10-22T12:00:00+00:00"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Antes de virar nacional, Geely EX2 chega a 1 milhão de unidades produzidas em dois anos",
+      "resumo": "Últimas 200 mil unidades saíram em cerca de dois meses; hatch tem feito sucesso também por aqui e será feito no Paraná",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812797/geely-ex2-um-milhao-unidades/",
+      "data": "2026-10-22T11:00:00+00:00"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Marca da Volkswagen lança linha de acessórios que podem ser feitos em casa",
       "resumo": "Arquivos gratuitos para impressão 3D incluem porta-copos, suportes para celular e organizadores para modelos atuais e antigos da Skoda",
       "fonte": "Quatro Rodas",
@@ -25,14 +81,6 @@
       "data": "2026-10-22T00:00:33+00:00"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Stellantis quer detectar combustível adulterado e denunciar postos à ANP",
-      "resumo": "Patente registrada no Brasil prevê alertas no painel e envio de dados de GPS à agência reguladora, mas tecnologia ainda não tem previsão de estreia",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/stellantis-quer-detectar-combustivel-adulterado-e-denunciar-postos-a-anp/",
-      "data": "2026-10-21T22:00:34+00:00"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Horse Powertrain investe R$ 200 milhões em fundição inédita no Paraná",
       "resumo": "Novo sistema de fundição de alumínio abastecerá produção dos motor 1.0 e 1.3 turbo flex da Renault para o Brasil e exportação",
@@ -41,60 +89,12 @@
       "data": "2026-10-21T20:54:21+00:00"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Omoda X é um SUV off-road com interior de Lamborghini que estreia em 2028",
-      "resumo": "Primeiro SUV off-road da marca adota linhas geométricas, tem tamanho de Omoda 7 e boa capacidade de imersão",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/omoda-x-conceito-suv-quadrado-design/",
-      "data": "2026-10-21T20:00:57+00:00"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Papa Leão XIV vai andar de Fiat Titano exclusiva em passagem pelo Uruguai; veja como ficou",
       "resumo": "Configuração é feita exclusivamente para o Santo Padre, já que a picape não oferece cabine simples e nem é vendida naquele país",
       "fonte": "Motor1 Brasil",
       "link": "https://motor1.uol.com.br/news/812815/fiat-titano-papa-leao-xiv/",
       "data": "2026-10-21T18:59:11+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Kia Tasman 2027 ganha versão mais equipada e preços agora variam de R$ 270 mil a R$ 320 mil",
-      "resumo": "Nova configuração PGL acrescenta assistências e conforto, mantendo o motor diesel de 210 cv e a tração 4x4",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812814/kia-tasman-ganha-nova-versao/",
-      "data": "2026-10-21T18:44:05+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Moto elétrica com extensor de autonomia por menos de R$ 2 mil: essa é a Cinnox da Chery",
-      "resumo": "Empresa teria obtido autorização do governo chinês para produzir o que seria a primeira moto elétrica de autonomia estendida do mundo",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812805/chery-primeira-moto-eletrica-erev/",
-      "data": "2026-10-21T17:31:21+00:00"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BYD Sealion 06 já está no Brasil e adianta o futuro do Song Plus",
-      "resumo": "Flagrado no Espírito Santo, SUV médio tem a quinta geração da motorização híbrida da marca e ficaria posicionado entre o Song Plus nacional e o Atto 8",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/byd-sealion-06-flagra-testes-brasil-motor-autonomia/",
-      "data": "2026-10-21T17:30:31+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "No Brasil em 2027, Omoda 4 terá teto que promete deixar cabine até 10°C mais fria",
-      "resumo": "Solução anunciada pela fabricante tenta amenizar o calor acumulado no interior quando o carro fica ao sol",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812781/omoda-4-brasil-teto-termico/",
-      "data": "2026-10-21T16:00:00+00:00"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Omoda 7 é renovado, chega ao Brasil em 2027 e quer ser super-híbrido que não carrega na tomada",
-      "resumo": "SUV maior é híbrido pleno com bateria grande; futuro lançamento, Omoda 4 ganhará tecnologias de isolamento térmico",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812777/omoda-7-brasil-2027-h%C3%ADbrido/",
-      "data": "2026-10-21T15:00:00+00:00"
     }
   ]
 }
