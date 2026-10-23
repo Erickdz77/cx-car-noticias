@@ -1,6 +1,19 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Veículo furtado no estacionamento de uma empresa: quando ela responde e o que fazer",
+      "resumo": "Aviso de “não nos responsabilizamos” não elimina automaticamente o dever de indenizar; entenda o que pesa na análise",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/veiculo-furtado-estacionamento-empresa-quando-ela-responde-o-que-fazer/",
+      "data": "2026-10-23T01:19:46+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzM2MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Primeiro híbrido da Chevrolet no Brasil, novo Captiva PHEV vai passar dos 1.000 km de autonomia",
       "resumo": "SUV médio poderá ser carregado na tomada e usar gasolina em viagens longas; os mais de 1.000 km são de autonomia combinada",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzEyMTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Novo Toyota SW4 2028 tem data de lançameno confirmada; veja detalhes",
-      "resumo": "SUV de sete lugares terá sistema MHEV de 48V, novo pacote de segurança autônoma e continuará sendo fabricado na Argentina; chegada ao Brasil será em 2027.",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/novo-toyota-sw4-2028-tem-data-de-lancameno-confirmada-veja-detalhes/",
-      "data": "2026-10-22T12:47:37+00:00",
-      "imagem": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzEyMTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Samuele Errico Piccarini",
-      "credito_link": "https://unsplash.com/@samuele_piccarini?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
