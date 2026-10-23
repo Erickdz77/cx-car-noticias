@@ -1,6 +1,45 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Oferta: Fiat derruba preço do Pulse Abarth e esportivo sai por preço de Tera e Avenger",
+      "resumo": "Versão de 185 cv sai por R$ 139.990 à vista, R$ 23.500 abaixo da tabela, em campanha válida até 3 de novembro",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812984/oferta-fiat-pulse-abarth-2027/",
+      "data": "2026-10-23T11:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Ildar Garifullin",
+      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Jetour celebra 8 anos com 2,56 milhões de carros vendidos e prepara novos lançamentos",
+      "resumo": "Marca chinesa já atua em mais de 100 mercados e amplia sua linha de SUVs híbridos no Brasil, com a chegada do G700 ainda em outubro",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812973/jetour-8-anos-lancamentos/",
+      "data": "2026-10-23T10:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jon Koop",
+      "credito_link": "https://unsplash.com/@jon_koop?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Chevrolet Spark EUV tem R$ 5.800 de desconto e fica mais barato que BYD Dolphin GS",
+      "resumo": "Preço promocional do elétrico ano/modelo 2026/2027, que sai por R$ 146.990, vale até o início de novembro",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/chevrolet-spark-euv-desconto/",
+      "data": "2026-10-23T10:00:28+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzU2NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Veículo furtado no estacionamento de uma empresa: quando ela responde e o que fazer",
       "resumo": "Aviso de “não nos responsabilizamos” não elimina automaticamente o dever de indenizar; entenda o que pesa na análise",
@@ -92,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Arcfox T1: concessionárias anunciam pré-venda e vazam especificações do rival do BYD Dolphin",
-      "resumo": "Comunicações de concessionárias chegam a clientes anunciando o início das reservas para o novo elétrico da chinesa BAIC",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812965/arcfox-t1-pre-venda-brasil/",
-      "data": "2026-10-22T17:36:05+00:00",
-      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3MTIxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "CEO da Stellantis pede desculpas por defeitos em motores com correia banhada a óleo",
       "resumo": "Antonio Filosa admite falhas crônicas na correia banhada a óleo na Europa; no Brasil, Peugeot 208 antigo exigiu plano de revisões mais rigoroso",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Novo Corsa entra nos planos da Stellantis para o futuro, que ainda incluem uma perua para Opel",
-      "resumo": "No Salão de Paris 2026, encontramos Florian Huettl, CEO da Opel, que nos contou alguns detalhes sobre o futuro da marca",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812931/opel-stellantis-novo-corsa-futuro/",
-      "data": "2026-10-22T16:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3MTIxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jonathan Gallegos",
-      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Picape Kia Tasman ganha versão com sistemas de segurança e regalias por R$ 319.990",
       "resumo": "Nova versão aposta em pacote completo de segurança e cabine com quase 30 polegadas de telas digitais",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3MTIxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Tyler Clemmensen",
       "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Honda confirma que Mitsubishi Triton será a base para sua picape média",
-      "resumo": "Aliança entre marcas japonesas viabiliza comercial leve inédito para o Sudeste Asiático; modelo usará chassi de longarinas e motor turbodiesel",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/honda-confirma-que-mitsubishi-triton-sera-a-base-para-sua-picape-media/",
-      "data": "2026-10-22T13:40:58+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzEyMTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
