@@ -1,6 +1,45 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Denza Z de 1.604 cv já está no Brasil em versão cupê e conversível e recarrega em cinco minutos",
+      "resumo": "Confirmado como um dos três lançamentos da marca para este ano, esportivo elétrico tem versões cupê e conversível e acelera de 0 a 100 km/h em 2,2 segundos",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/denza-z-de-1-604-cv-ja-esta-no-brasil-em-versao-cupe-e-conversivel-e-recarrega-em-cinco-minutos/",
+      "data": "2026-10-23T21:46:26+00:00",
+      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3MTIxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler Clemmensen",
+      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Chevrolet Captiva híbrido inicia montagem nacional e promete autonomia de 1.000 km",
+      "resumo": "SUV médio será feito com peças importadas da China, usando um conjunto híbrido plug-in de 204 cv",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/chevrolet-captiva-hibrido-inicia-montagem-nacional-e-promete-autonomia-de-1-000-km/",
+      "data": "2026-10-23T21:37:55+00:00",
+      "imagem": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3MTIxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Peter Broomfield",
+      "credito_link": "https://unsplash.com/@peterbroomfield?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Como o carro sabe a hora de frear sozinho antes de uma batida?",
+      "resumo": "Câmera e radar calculam o risco de colisão, mas a frenagem automática nem sempre consegue parar o veículo",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813117/como-funciona-frenagem-autonoma-emergencia/",
+      "data": "2026-10-23T20:44:56+00:00",
+      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3MTIxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Ildar Garifullin",
+      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "BYD oferece Song Pro GL híbrido com R$ 28.500 de desconto no preço para o modelo 2026",
       "resumo": "Site da marca ainda tem o SUV híbrido pré-facelift saindo por preço de Volkswagen T-Cross e Jeep Renegade",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Joshua Koblin",
       "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "M1 Numbers: contra chineses, Jaguar e Porsche querem carros ainda mais caros",
-      "resumo": "Maextro já aparece à frente de Lamborghini e Bentley no recorte de luxo de 2025, enquanto a China responde por 14% das vendas",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812940/m1-numbers-jaguar-porsche-chineses/",
-      "data": "2026-10-23T12:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mjc1NjQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Chevrolet Spark EUV tem R$ 5.800 de desconto e fica mais barato que BYD Dolphin GS",
-      "resumo": "Preço promocional do elétrico ano/modelo 2026/2027, que sai por R$ 146.990, vale até o início de novembro",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/chevrolet-spark-euv-desconto/",
-      "data": "2026-10-23T10:00:28+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzU2NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Veículo furtado no estacionamento de uma empresa: quando ela responde e o que fazer",
-      "resumo": "Aviso de “não nos responsabilizamos” não elimina automaticamente o dever de indenizar; entenda o que pesa na análise",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/veiculo-furtado-estacionamento-empresa-quando-ela-responde-o-que-fazer/",
-      "data": "2026-10-23T01:19:46+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzM2MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
