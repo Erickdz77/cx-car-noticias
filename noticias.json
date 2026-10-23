@@ -1,6 +1,32 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "BYD oferece Song Pro GL híbrido com R$ 28.500 de desconto no preço para o modelo 2026",
+      "resumo": "Site da marca ainda tem o SUV híbrido pré-facelift saindo por preço de Volkswagen T-Cross e Jeep Renegade",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813115/byd-song-pro-desconto-preco/",
+      "data": "2026-10-23T18:01:08+00:00",
+      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3ODU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Felipe Simo",
+      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Em 2026, Honda CG 160 já vendeu mais de 400 mil unidades; veja as 10 motos mais vendidas do ano",
+      "resumo": "Num mercado que já se aproxima de 2 milhões de unidades emplacadas, Honda continua implacável",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812770/ranking-motos-vendas-acumulado-2026/",
+      "data": "2026-10-23T16:53:31+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3ODU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Fábrica da BYD na Bahia inicia operação de pintura e solda, e carros nacionais ficam para 2027",
       "resumo": "Com 9.000 funcionários e capacidade para 150.000 carros por ano, complexo de Camaçari finaliza áreas de soldagem e estamparia visando produção nacional",
@@ -101,32 +127,6 @@
       "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mjc1NjQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Håkon Sataøen",
       "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Oferta: Fiat derruba preço do Pulse Abarth e esportivo sai por preço de Tera e Avenger",
-      "resumo": "Versão de 185 cv sai por R$ 139.990 à vista, R$ 23.500 abaixo da tabela, em campanha válida até 3 de novembro",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812984/oferta-fiat-pulse-abarth-2027/",
-      "data": "2026-10-23T11:01:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Ildar Garifullin",
-      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Jetour celebra 8 anos com 2,56 milhões de carros vendidos e prepara novos lançamentos",
-      "resumo": "Marca chinesa já atua em mais de 100 mercados e amplia sua linha de SUVs híbridos no Brasil, com a chegada do G700 ainda em outubro",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812973/jetour-8-anos-lancamentos/",
-      "data": "2026-10-23T10:01:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jon Koop",
-      "credito_link": "https://unsplash.com/@jon_koop?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
