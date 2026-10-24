@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Longa Duração: revisão de 40.000 km do Fiat Pulse Hybrid dobra de valor com empurroterapia",
+      "resumo": "Revisão de 40.000 km do Fiat Pulse Hybrid veio com uma lista de serviços extras que a fábrica não indica, mas ficou devendo a troca do fluido de freio",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/testes/longa-duracao/longa-duracao-revisao-de-40-000-km-do-fiat-pulse-hybrid-dobra-de-valor-com-empurroterapia/",
+      "data": "2026-10-24T20:00:44+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI4NzU3MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joey Banks",
+      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "BMW M2 CS eleva seu patamar nas pistas com 530 cv e freios de carbono",
       "resumo": "Versão preparada do BMW Série 2 reedita a típica esportividade dos modelos CS (Club Sport) da marca",
       "fonte": "Quatro Rodas",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1469285994282-454ceb49e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4MDYzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Andrew Pons",
       "credito_link": "https://unsplash.com/@imandrewpons?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Denza Z de 1.604 cv já está no Brasil em versão cupê e conversível e recarrega em cinco minutos",
-      "resumo": "Confirmado como um dos três lançamentos da marca para este ano, esportivo elétrico tem versões cupê e conversível e acelera de 0 a 100 km/h em 2,2 segundos",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/denza-z-de-1-604-cv-ja-esta-no-brasil-em-versao-cupe-e-conversivel-e-recarrega-em-cinco-minutos/",
-      "data": "2026-10-23T21:46:26+00:00",
-      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3MTIxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler Clemmensen",
-      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
