@@ -1,6 +1,19 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Lula x Flávio Bolsonaro: o que pode mudar no preço da gasolina e do diesel?",
+      "resumo": "Presidente aposta na Petrobras e em subsídios; adversário promete cortar impostos mas deixa em dúvida futuro da Petrobrás",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813121/propostas-lula-flavio-bolsonaro-combustiveis/",
+      "data": "2026-10-24T00:30:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1469285994282-454ceb49e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4MDYzODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Andrew Pons",
+      "credito_link": "https://unsplash.com/@imandrewpons?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Denza Z de 1.604 cv já está no Brasil em versão cupê e conversível e recarrega em cinco minutos",
       "resumo": "Confirmado como um dos três lançamentos da marca para este ano, esportivo elétrico tem versões cupê e conversível e acelera de 0 a 100 km/h em 2,2 segundos",
@@ -114,19 +127,6 @@
       "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mjc1NjQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuvraj Singh",
       "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "MG IM 6 chega ao Brasil por R$ 368.990; veja preços e versões do SUV elétrico",
-      "resumo": "SUV elétrico de luxo tem até 752 cv, bateria de 100 kWh e autonomia de 400 km; versão topo de linha custa R$ 439.990",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813067/lancamento-mg-im6-precos-versoes/",
-      "data": "2026-10-23T12:47:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
