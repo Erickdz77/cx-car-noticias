@@ -1,6 +1,19 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Tirar a CNH ficou mais fácil? Conheça todas as mudanças no processo para obter a habilitação",
+      "resumo": "Exames médico e psicológico, prova teórica e duas horas de formação prática seguem obrigatórios",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/tirar-cnh-ficou-mais-facil-mudancas-para-obter-habilitacao/",
+      "data": "2026-10-24T02:56:20+00:00",
+      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzU2NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tim Meyer",
+      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Lula x Flávio Bolsonaro: o que pode mudar no preço da gasolina e do diesel?",
       "resumo": "Presidente aposta na Petrobras e em subsídios; adversário promete cortar impostos mas deixa em dúvida futuro da Petrobrás",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzU2NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Samuele Errico Piccarini",
       "credito_link": "https://unsplash.com/@samuele_piccarini?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Cheiro de combustível no carro: como tirar com segurança e quando suspeitar de vazamento",
-      "resumo": "Saiba o que fazer quando o cheiro de combustível aparece na cabine, e por que mascarar o odor pode esconder um vazamento",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/cheiro-combustivel-carro-como-tirar-com-seguranca-e-quando-suspeitar-vazamento/",
-      "data": "2026-10-23T12:21:24+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
