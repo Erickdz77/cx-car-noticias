@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Xpeng G9 é SUV elétrico com recarga em 12 minutos, IA e 575 cv que pode vir ao Brasil",
+      "resumo": "Dirigimos na Europa o SUV topo de gama da Xpeng, marca chinesa que deve estrear no Brasil em 2027, e tivemos uma amostra do que os consumidores podem esperar",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/avaliacao-xpeng-g9-suv-eletrico-chines-575-cv/",
+      "data": "2026-10-25T18:22:47+00:00",
+      "imagem": "https://images.unsplash.com/photo-1493238792000-8113da705763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyOTQ4MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Evgeny Tchebotarev",
+      "credito_link": "https://unsplash.com/@ev25?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Atraso do carro ao acelerar não é defeito: veja por que os carros novos fazem isso",
       "resumo": "Atraso nas respostas do motor tem relação com o controle de emissões de poluentes, eficiência energética e até gerenciamento das baterias",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI4NzU3MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Joey Banks",
       "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BMW M2 CS eleva seu patamar nas pistas com 530 cv e freios de carbono",
-      "resumo": "Versão preparada do BMW Série 2 reedita a típica esportividade dos modelos CS (Club Sport) da marca",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/testes/novo-bmw-m2-cs-impressoes-preco-desempenho/",
-      "data": "2026-10-24T17:30:56+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzM2MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
