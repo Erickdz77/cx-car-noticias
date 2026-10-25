@@ -2,6 +2,58 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Atraso do carro ao acelerar não é defeito: veja por que os carros novos fazem isso",
+      "resumo": "Atraso nas respostas do motor tem relação com o controle de emissões de poluentes, eficiência energética e até gerenciamento das baterias",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/porque-carros-modernos-tem-atraso-delay-acelerador/",
+      "data": "2026-10-25T16:32:28+00:00",
+      "imagem": "https://images.unsplash.com/photo-1762170904867-eda21916d7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI4NTQ5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "majed swan",
+      "credito_link": "https://unsplash.com/@majedswan?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Jeep Compass terá primo da Alfa Romeo; veja a projeção do novo SUV",
+      "resumo": "Feito na Itália, modelo poderá ocupar o espaço do Tonale e aparece com linhas inspiradas no conceito mostrado em Paris",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813095/projecao-novo-alfa-romeo-compass/",
+      "data": "2026-10-25T16:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1570280406792-bf58b7c59247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4NTQ5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Toni Zaat",
+      "credito_link": "https://unsplash.com/@tonizaat?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Mercedes-AMG está desenvolvendo um novo C63, mas V8 é mistério",
+      "resumo": "Nova geração está em desenvolvimento, e os engenheiros estão estudando tanto a versão a gasolina quanto a elétrica",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813145/segredo-mercedes-amg-c63-eletrico/",
+      "data": "2026-10-25T15:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4NTQ5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Fiat, 50 anos: antes da Strada, Fiorino Trekking já queria ser picape de passeio",
+      "resumo": "Fiorino Trekking ensaiou proposta aventureira que a sucessora ampliaria com mais espaço e equipamentos; relembre história",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/812665/como-fiat-criou-picapes-compactas/",
+      "data": "2026-10-25T14:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4NTQ5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Olhos de enxergar: por que a arte e a mecânica dos carros exigem tempo",
       "resumo": "A dedicação necessária para se compreender determinadas coisas é diretamente proporcional ao trabalho que essas coisas deram para ser produzidas",
       "fonte": "Quatro Rodas",
@@ -92,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Fiat Koala será ‘gêmeo’ do Citroën 2CV menor que novo Grande Panda",
-      "resumo": "Novo elétrico vai completar a família de 'animais' da Fiat na Europa, que engloba o Panda e o Grizzly",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/fiat-koala-subcompacto-eletrico/",
-      "data": "2026-10-24T16:00:31+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyNzM2MDE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Num Brasil sem vendas diretas, BYD seria vice deixando Fiat e Cheverolet de lado; veja o ranking",
       "resumo": "Olhando os emplacamentos de varejo no acumulado de 2026, Top 10 de marcas em nosso mercado já teria 3 chinesas",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4NjU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Lance Asper",
       "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Toyota quer convencer Europa a tratar carros a gasolina como “emissão zero”",
-      "resumo": "Pedido inclui híbridos, mas só vale para modelos que não usam gasolina convencional",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813102/toyota-quer-hibridos-emisao-zero/",
-      "data": "2026-10-24T15:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Semana Motor1.com: Novidades de Omoda e Jetour, Lepas no Brasil, Jeep Compass 2027 e mais",
-      "resumo": "Semana teve estreia do MG IM6, Chevrolet Captiva PHEV com montagem nacional, Honda CG 2027 e BYD Dolphin Mini com recarga ultrarrápida",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/features/813085/semana-motor1-omoda-jetour-lepas/",
-      "data": "2026-10-24T14:01:51+00:00",
-      "imagem": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Calmon: eleição vai definir se carro pode ficar mais barato em janeiro",
-      "resumo": "Novo imposto segue sem alíquotas definidas; coluna também traz planos da Nissan e novidades vistas em Paris",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/features/813090/coluna-calmon-eleicao-impostos-carros/",
-      "data": "2026-10-24T13:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1611651338412-8403fa6e3599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI3NTY0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "redcharlie",
-      "credito_link": "https://unsplash.com/@redcharlie?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
