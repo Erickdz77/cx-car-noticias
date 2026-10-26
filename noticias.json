@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Governo dos EUA vai padronizar regras de faróis para eliminar ofuscamento",
+      "resumo": "Comitê com especialistas vai atualizar as normas de iluminação veicular nos Estados Unidos; grandes mudanças não ocorrem há quase três décadas",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/eua-mudam-regras-farois-ofuscamento-seguranca-nhtsa/",
+      "data": "2026-10-26T22:00:06+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMDU1NTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Novo Mercedes-Benz CLA aposenta motor 1.3 da Renault e custa R$ 364.900",
+      "resumo": "Ainda em fase de pré-venda, nova geração do sedã médio estreia no país na versão 200 AMG Line",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813319/mercedes-cla200-pre-venda-preco/",
+      "data": "2026-10-26T20:05:39+00:00",
+      "imagem": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzA1NTU3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Goh Rhy Yan",
+      "credito_link": "https://unsplash.com/@gohrhyyan?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Novo Omoda QQ chega ao Brasil elétrico e com produção nacional, mas isso pode demorar",
+      "resumo": "Omoda QQ será produzido no Brasil para enfrentar seus principal rivais, Geely EX2 e Dolphin, também com produção nacional",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/novo-omoda-qq-chega-ao-brasil-eletrico-e-com-producao-nacional-mas-isso-pode-demorar/",
+      "data": "2026-10-26T20:00:02+00:00",
+      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMDU1NTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Ildar Garifullin",
+      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Esperado no Brasil, Hyundai Bayon é lançado na Índia com preços partindo de menos de R$ 60 mil",
+      "resumo": "Novo SUV de entrada da marca estreou no mercado asiático em configuração mais próximo do que veremos por aqui",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813314/hyundai-bayon-lancamento-india-preco/",
+      "data": "2026-10-26T19:47:34+00:00",
+      "imagem": "https://images.unsplash.com/photo-1570280406792-bf58b7c59247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMwNTU1NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Toni Zaat",
+      "credito_link": "https://unsplash.com/@tonizaat?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Fiat Grizzly não tirará Fastback de linha quando chegar ao Brasil em 2027, diz jornalista",
       "resumo": "Novos SUVs da marca chegarão em 2027 com proposta e faixa de preço diferentes; estratégia prevê transição gradual na linha",
@@ -92,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Aposta da VW na Xpeng não está funcionando, diz Reuters, e pode ser lição para o Brasil",
-      "resumo": "Alemã usou parceira local para se salvar no mercado chinês e, ainda assim, está obtendo resultados abaixo do esperado, disse a agência",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813266/aposta-vw-xpeng-china-brasil/",
-      "data": "2026-10-26T13:56:57+00:00",
-      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMwNDA0MjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Chery revela nova geração do Tiggo 7 na China com cabine luxuosa e mais tecnologia",
       "resumo": "Apresentado na China, o SUV médio adota visual limpo, bancos com massagem e recarga programada para a motorização híbrida",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMDQwNDI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Audi investirá US$ 4 bilhões em fábrica nos EUA para produzir SUVs grandes",
-      "resumo": "Nova unidade na Geórgia terá capacidade para 200 mil veículos por ano e deve gerar 4.500 empregos; produção está prevista para 2031",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813180/audi-fabrica-eua-investimento-suvs/",
-      "data": "2026-10-26T13:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMwNDA0MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BMW Concept 7 Protection é um blindado discreto repleto de dispositivos secretos",
-      "resumo": "Protótipo tem proteção contra armas de calibre .44 Magnum e detalhes de proteção camuflados para garantir segurança sem chamar atenção",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/bmw-concept-7-protection-sedan-blindado/",
-      "data": "2026-10-26T12:00:35+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyOTQ4MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Problema no motor 1.0 turbo de HB20 e Creta causa falha e superaquecimento",
-      "resumo": "Proprietários de Creta e HB20 relatam defeito no sistema de refrigeração dos motores de HB20 e Creta. Hyundai reconhece o problema",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/problema-motor-hyundai-hb20-creta-mistura-agua-oleo/",
-      "data": "2026-10-26T10:00:48+00:00",
-      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI5NDgxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler H",
-      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
