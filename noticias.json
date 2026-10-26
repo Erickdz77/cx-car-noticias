@@ -2,6 +2,58 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "BMW Concept 7 Protection é um blindado discreto repleto de dispositivos secretos",
+      "resumo": "Protótipo tem proteção contra armas de calibre .44 Magnum e detalhes de proteção camuflados para garantir segurança sem chamar atenção",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/bmw-concept-7-protection-sedan-blindado/",
+      "data": "2026-10-26T12:00:35+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyOTQ4MTA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "VW Nivus Sense tem entrada de R$ 36 mil e parcelas com 0,99% de juros; veja se vale a pena",
+      "resumo": "SUV tem motor 1.0 turbo de até 128 cv e câmbio automático; oferta tem 48 parcelas de R$ 2.331,65",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813178/promocao-vw-nivus-sense-2027/",
+      "data": "2026-10-26T12:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mjk0ODEwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Olav Tvedt",
+      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Toyota Corolla chega aos 60 anos; veja sua trajetória de 57 milhões de unidades no mundo",
+      "resumo": "Aqui estão as 12 gerações do modelo, que está no Brasil desde os anos 1990",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/813177/historia-toyota-corolla-60-anos/",
+      "data": "2026-10-26T11:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1611651338412-8403fa6e3599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI5NDgxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "redcharlie",
+      "credito_link": "https://unsplash.com/@redcharlie?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Problema no motor 1.0 turbo de HB20 e Creta causa falha e superaquecimento",
+      "resumo": "Proprietários de Creta e HB20 relatam defeito no sistema de refrigeração dos motores de HB20 e Creta. Hyundai reconhece o problema",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/problema-motor-hyundai-hb20-creta-mistura-agua-oleo/",
+      "data": "2026-10-26T10:00:48+00:00",
+      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI5NDgxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler H",
+      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "MG lança marca de luxo IM no Brasil com SUV elétrico de 752 cv e modo caranguejo",
       "resumo": "IM6 chega em duas versões com baterias de até 100 kWh, esterçamento nas quatro rodas e arquitetura de 800V para recarga rápida. Preços partem de R$ 368.990",
       "fonte": "Quatro Rodas",
@@ -92,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Olhos de enxergar: por que a arte e a mecânica dos carros exigem tempo",
-      "resumo": "A dedicação necessária para se compreender determinadas coisas é diretamente proporcional ao trabalho que essas coisas deram para ser produzidas",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/opiniao/olhos-de-enxergar-por-que-a-arte-e-a-mecanica-dos-carros-exigem-tempo/",
-      "data": "2026-10-25T13:00:42+00:00",
-      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyOTM0MjMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuvraj Singh",
-      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "BYD quer produzir 600 mil carros por ano no Brasil e mira liderança do mercado",
       "resumo": "Após superar 200 mil veículos faturados em 2026, marca chinesa prepara expansão de Camaçari e quer exportar para Argentina e México",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MjkzNDIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kevin Bhagat",
       "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "De AMG a Nismo: conheça a origem e os ícones de 10 divisões esportivas de fábrica",
-      "resumo": "Carros preparados para as pistas e para as ruas, que sempre foram sonho de consumo dos entusiastas, ganham status de preciosidades dentro das fábricas",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/de-amg-a-nismo-conheca-a-origem-e-os-icones-de-10-divisoes-esportivas-de-fabrica/",
-      "data": "2026-10-25T11:43:05+00:00",
-      "imagem": "https://images.unsplash.com/photo-1506610654-064fbba4780c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTI5MzQyMzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Florian Schneider",
-      "credito_link": "https://unsplash.com/@flotography?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Teste: BMW iX3 50xDrive roda quase 700 km com uma carga e mostra como o sarrafo subiu",
-      "resumo": "Nova plataforma leva SUV de 469 cv a um novo patamar de tecnologia e eficiência",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/reviews/812936/teste-bmw-ix3-eletrico-neueklasse/",
-      "data": "2026-10-25T11:37:50+00:00",
-      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MjkzNDIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler H",
-      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Num Brasil sem vendas diretas, BYD seria vice deixando Fiat e Cheverolet de lado; veja o ranking",
-      "resumo": "Olhando os emplacamentos de varejo no acumulado de 2026, Top 10 de marcas em nosso mercado já teria 3 chinesas",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/812644/ranking-vendas-varejo-brasil-byd/",
-      "data": "2026-10-24T16:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTI4NjU4MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
