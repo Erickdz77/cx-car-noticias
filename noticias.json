@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "MG lança marca de luxo IM no Brasil com SUV elétrico de 752 cv e modo caranguejo",
+      "resumo": "IM6 chega em duas versões com baterias de até 100 kWh, esterçamento nas quatro rodas e arquitetura de 800V para recarga rápida. Preços partem de R$ 368.990",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/mg-lanca-marca-de-luxo-im-no-brasil-com-suv-eletrico-de-752-cv-e-modo-caranguejo/",
+      "data": "2026-10-25T23:00:35+00:00",
+      "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyOTc0Njk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Luke Miller",
+      "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Honda Civic híbrido ganha sistema do Prelude para ficar mais ‘esportivo’",
       "resumo": "Hatch híbrido pleno adota tecnologia virtual S+ Shift de oito marchas com som ativo e freio-motor mecânico",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MjkzNDIzMXww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Tyler H",
       "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Omoda 7 HEV: nova versão híbrida de entrada tem 217 cv e faz 20,4 km/l; veja quando estreia no Brasil",
-      "resumo": "Bateria maior, de 5,1 kWh, é o grande destaque, mas o SUV também é mais rápido que sua versão plug-in e estreia no Brasil em 2027",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/omoda-7-hev-nova-versao-hibrida-de-entrada-tem-217-cv-e-faz-204-km-l-veja-quando-estreia-no-brasil/",
-      "data": "2026-10-24T21:24:09+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkyODc1NzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
