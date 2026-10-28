@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Quer mudar a categoria da CNH? Veja o que o aplicativo CNH do Brasil permite fazer",
+      "resumo": "A regulamentação nacional define etapas e requisitos; o Detran de cada estado informa como pedir o serviço",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/mudar-categoria-cnh-veja-aplicativo-cnh-do-brasil-permite-fazer/",
+      "data": "2026-10-28T06:58:28+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMTA3Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Cheiro de cachorro no carro: como limpar bancos e carpetes sem danificar o interior",
       "resumo": "Pelos, umidade e acidentes com urina deixam odores diferentes; veja como limpar cada material",
       "fonte": "Quatro Rodas",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzEyNzA3OXww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Joshua Koblin",
       "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Chery Tiggo X7 é revelado com visual de jipe e seis modos off-road",
-      "resumo": "Novo SUV médio aposta em suspensão elevada, pneus de uso misto e modos de condução para enfrentar diferentes tipos de terreno",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/chery-tiggo-x7-e-revelado-com-visual-de-jipe-e-seis-modos-off-road/",
-      "data": "2026-10-27T14:25:52+00:00",
-      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMxMjcwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Olav Tvedt",
-      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
