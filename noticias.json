@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Cheiro de cachorro no carro: como limpar bancos e carpetes sem danificar o interior",
+      "resumo": "Pelos, umidade e acidentes com urina deixam odores diferentes; veja como limpar cada material",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/cheiro-cachorro-carro-como-limpar-bancos-carpetes-sem-danificar-interior/",
+      "data": "2026-10-28T00:00:39+00:00",
+      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMTI3MDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Como a Inteligência Artificial mudou a forma de comprar carros novos",
       "resumo": "Na hora de pesquisar um carro para comprar, a IA ajuda a identificar o que é bom, útil e verdadeiro e o que é ruim, falso e prejudicial",
       "fonte": "Quatro Rodas",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMxMjcwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Olav Tvedt",
       "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Polêmico, novo Mercedes-Benz CLA 200 entra em pré-venda no Brasil por R$ 364.900",
-      "resumo": "Sedã da marca alemã estreia a arquitetura modular MMA na versão 200 AMG Line, com motor 1.5 turbo e sistema híbrido leve",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/polemico-novo-mercedes-benz-cla-200-entra-em-pre-venda-no-brasil-por-r-364-900/",
-      "data": "2026-10-27T13:25:11+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMTA3Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
