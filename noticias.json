@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Hyundai Bayon estreia na Índia por R$ 57.700 e antecipa SUV brasileiro",
+      "resumo": "Novo SUV compacto tem dimensões próximas às do Creta e antecipa soluções do modelo que será produzido no Brasil para enfrentar Fiat Pulse e VW Tera",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/hyundai-bayon-estreia-na-india-por-r-57-700-e-antecipa-suv-brasileiro/",
+      "data": "2026-10-30T01:00:10+00:00",
+      "imagem": "https://images.unsplash.com/photo-1506610654-064fbba4780c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMzMjg1NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Florian Schneider",
+      "credito_link": "https://unsplash.com/@flotography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Podcast Motor1 #338: nova onda chinesa pressiona tradicionais no Brasil",
+      "resumo": "Diogo de Oliveira e Rodrigo Perini debatem expansão do Grupo Chery, estreia da BAIC e resposta da VW",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/813790/podcast-motor1-338-onda-chinesa/",
+      "data": "2026-10-29T23:38:03+00:00",
+      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzMyODU1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kevin Bhagat",
+      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Fiat Pulse tem R$ 9.000 de desconto e preço fica abaixo dos R$ 100.000",
       "resumo": "Descontos foram aplicados nas versões com motor 1.3 aspirado e configuração manual pode ser comprada por R$ 98.990",
       "fonte": "Quatro Rodas",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Jeep Renegade ganha nova versão sem sistema híbrido leve por R$ 155.600",
-      "resumo": "Configuração Longitude será oferecida sem sistema MHEV para ficar R$ 3.000 mais barata",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/jeep-renegade-ganha-nova-versao-sem-sistema-hibrido-leve-por-r-155-600/",
-      "data": "2026-10-29T17:00:49+00:00",
-      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler Clemmensen",
-      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Volkswagen vai levar tecnologia da China para carros na América do Sul para aumentar competitividade",
       "resumo": "Montadora usará plataforma e arquitetura eletrônica desenvolvidas na China em mercados emergentes",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Meritt Thomas",
       "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Toyota desenvolve novos motores a combustão enquanto prepara plataforma para elétricos",
-      "resumo": "Nova geração de motores a combustão foi projetada para trabalhar com híbridos e integra uma plataforma que também receberá elétricos",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813728/toyota-plataforma-hibridos-eletricos-motor/",
-      "data": "2026-10-29T16:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1611651338412-8403fa6e3599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "redcharlie",
-      "credito_link": "https://unsplash.com/@redcharlie?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
