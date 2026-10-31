@@ -2,6 +2,45 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Exclusivo: BYD já testa picape menor que a Mako para não errar contra Fiat Strada e VW Tukan",
+      "resumo": "Nova picape híbrida plug-in de entrada compartilhará plataforma do BYD King e ficará abaixo da Mako e da Shark. Lançamento ocorre só em 2027",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/exclusivo-byd-ja-testa-picape-menor-que-a-mako-para-nao-errar-contra-fiat-strada-e-vw-tukan/",
+      "data": "2026-10-31T19:01:32+00:00",
+      "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDc5MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Luke Miller",
+      "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Fiat completa meio século e com nove modelos que foram pioneiros",
+      "resumo": "Marca inaugurou fábrica em Betim em 1976 e introduziu soluções e categorias que ajudaram a transformar o mercado brasileiro de automóveis.",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/813966/coluna-calmon-fiat-50-anos/",
+      "data": "2026-10-31T18:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1617814086906-d847a8bc6fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ3OTA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Flavien",
+      "credito_link": "https://unsplash.com/@faliven?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Prometido para 2026, BYD Song Plus nacional não tem data para chegar",
+      "resumo": "Atto 2 ganhou prioridade em Camaçari, mas chinesa garante que SUV maior ainda será produzido no Brasil",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813949/byd-song-plus-producao-nacional/",
+      "data": "2026-10-31T17:19:14+00:00",
+      "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NzkwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Meritt Thomas",
+      "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Óleo de câmbio dura para sempre? Mito do fluido vitalício causa danos graves",
       "resumo": "Fabricantes indicam fluido de transmissão como vitalício, mas trânsito urbano exige trocas preventivas para evitar trancos e reparos caros na oficina",
       "fonte": "Quatro Rodas",
@@ -105,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Vai viajar no feriado de Finados? PRF começa operação hoje; veja o que muda e o que dá multa",
-      "resumo": "Operação nas rodovias federais reforça fiscalização até segunda-feira (2) sem restrição para caminhões, mas com alerta de chuvas",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vai-viajar-no-feriado-de-finados-prf-comeca-operacao-hoje-veja-o-que-muda-e-o-que-da-multa/",
-      "data": "2026-10-30T21:42:22+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMjgwNTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "ZF dá cérebro novo a câmbio de caminhão que prevê subidas e se protege de hackers",
       "resumo": "TraXon 2 lê a estrada 2 km adiante, recebe atualizações online e será feita no Brasil em 2027",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMyODA1NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuriy Bogdanov",
       "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Clientes já dirigiram novas VW Amarok e Tukan bem antes do lançamento para dar opiniões",
-      "resumo": "Prometidas para 2027, dupla já foi avaliada por interessados do agronegócio e frotistas antes de sequer terem sido reveladas totalmente",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813936/vw-leva-clientes-teste-amarok/",
-      "data": "2026-10-30T18:05:26+00:00",
-      "imagem": "https://images.unsplash.com/photo-1469285994282-454ceb49e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Andrew Pons",
-      "credito_link": "https://unsplash.com/@imandrewpons?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "GWM Haval H6 passa Jeep Compass e vira o SUV médio mais vendido de 2026",
-      "resumo": "Na parcial de outubro, chinês abre 486 carros no acumulado; HB20 bate recorde e Dolphin Mini mantém pódio",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813905/parcial-vendas-carros-outubro-2026/",
-      "data": "2026-10-30T16:30:12+00:00",
-      "imagem": "https://images.unsplash.com/photo-1611740801331-d8b5d6962822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Media Studio Hong Kong",
-      "credito_link": "https://unsplash.com/@mediastudiohk?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
