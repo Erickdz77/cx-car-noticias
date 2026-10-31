@@ -2,6 +2,45 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Jetour F700 no Brasil? Marca teme efeito “Shark”, mas quer ouvir concessionários e clientes",
+      "resumo": "Apesar do registro, empresa enxerga conservadorismo e fidelidade dos clientes às picapes médias tradicionais",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/jetour-f700-no-brasil-marca-teme-efeito-shark-mas-quer-ouvir-concessionarios-e-clientes/",
+      "data": "2026-10-31T12:00:59+00:00",
+      "imagem": "https://images.unsplash.com/photo-1762170904867-eda21916d7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTM0NTEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "majed swan",
+      "credito_link": "https://unsplash.com/@majedswan?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Teste Audi A6 Avant e-Tron: celebremos a coragem de sair do comum e se diferenciar na multidão",
+      "resumo": "O charme das peruas segue vivo e se tornou carro para quem se diferencia dos demais",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/reviews/811788/teste-audi-a6-avant-eletrico/",
+      "data": "2026-10-31T12:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NTEyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Volkswagen suspende o projeto do Golf elétrico para reduzir prejuízos",
+      "resumo": "Desenvolvimento do ID. Golf foi interrompido temporariamente após resultados financeiros abaixo das metas; lançamento pode sofrer novos atrasos",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/volkswagen-suspende-o-projeto-do-golf-eletrico-para-reduzir-prejuizos/",
+      "data": "2026-10-31T10:00:36+00:00",
+      "imagem": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Dhiva Krishna",
+      "credito_link": "https://unsplash.com/@dhivakrishna?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Combustível adulterado: sinais no carro, como checar o posto e onde denunciar",
       "resumo": "Aplicativo da ANP mostra nota, fiscalizações e origem do combustível de cada posto e recebe denúncias",
       "fonte": "Quatro Rodas",
@@ -79,19 +118,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Bateria do carro elétrico perde capacidade com qual velocidade? Saiba a média e o impacto da carga rápida",
-      "resumo": "Estudo com mais de 22.000 veículos revela a perda de capacidade das baterias e como o calor, o uso severo e os carregadores ultrarrápidos aceleram o desgaste",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/bateria-carro-eletrico-perde-autonomia-degradacao-anual/",
-      "data": "2026-10-30T17:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1762170904867-eda21916d7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "majed swan",
-      "credito_link": "https://unsplash.com/@majedswan?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "GWM Haval H6 passa Jeep Compass e vira o SUV médio mais vendido de 2026",
       "resumo": "Na parcial de outubro, chinês abre 486 carros no acumulado; HB20 bate recorde e Dolphin Mini mantém pódio",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "VW T-Cross elétrico pode ser vendido no Brasil contra GWM Ora 5 e Leapmotor B10",
-      "resumo": "Cotado para o mercado brasileiro, o novo ID. Cross tem nova plataforma, defende os botões físicos em cabine mais refinada",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/vw-t-cross-eletrico-pode-ser-vendido-no-brasil-contra-gwm-ora-5-e-leapmotor-b10/",
-      "data": "2026-10-30T15:00:49+00:00",
-      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMzNzY2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler H",
-      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Dirigimos o Lepas L6 híbrido na China: SUV agrada na estrada, mas precisa melhorar por dentro",
       "resumo": "Rodamos 720 km pela China com o SUV de 279 cv que chegará ao Brasil em 2027",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzNzY2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "John Lord Vicente",
       "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Jetour G700 chega ao Brasil com 905 cv e duas versões; veja preços e equipamentos",
-      "resumo": "Novo SUV 4x4 PHEV tem cinco ou seis lugares, 73 km de alcance elétrico e garantia de sete anos",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813895/jetour-g700-lancamento-preco-versoes/",
-      "data": "2026-10-30T13:14:42+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzM3NjYyMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
