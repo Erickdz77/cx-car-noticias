@@ -2,6 +2,58 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Óleo de câmbio dura para sempre? Mito do fluido vitalício causa danos graves",
+      "resumo": "Fabricantes indicam fluido de transmissão como vitalício, mas trânsito urbano exige trocas preventivas para evitar trancos e reparos caros na oficina",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/oleo-de-cambio-vitalicio-troca-preventiva/",
+      "data": "2026-10-31T15:00:32+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Tesla faz dobradinha histórica na Europa; Jaecoo 7 surpreende",
+      "resumo": "Model Y e Model 3 garantem as duas primeiras posições em setembro; Jaecoo 7 se torna o primeiro carro chinês a entrar no top 10 europeu.",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813962/ranking-vendas-europa-tesla-jaecoo/",
+      "data": "2026-10-31T14:42:22+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0Njc3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Semana Motor1: BAIC, DFM e Jetour G700 chegam ao Brasil; VW Tukan, BYD e mais",
+      "resumo": "Novas marcas chinesas iniciam vendas, Jetour lança SUV de 905 cv e VW estuda trazer ID. Polo em 2028",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/813934/semana-motor1-baic-dfm-jetour/",
+      "data": "2026-10-31T14:13:33+00:00",
+      "imagem": "https://images.unsplash.com/photo-1766353134008-bb3b8b99ddd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ2Nzc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Paul Lichtblau",
+      "credito_link": "https://unsplash.com/@laup?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Fiat Strada Freedom CD 2027 tem promoção e passa a custar menos que versão de entrada",
+      "resumo": "Ação promocional voltada a produtores rurais e empresas reduz o preço da picape compacta para R$ 108.660",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/fiat-strada-freedom-cabine-dupla-desconto-cnpj/",
+      "data": "2026-10-31T13:09:40+00:00",
+      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tim Meyer",
+      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Jetour F700 no Brasil? Marca teme efeito “Shark”, mas quer ouvir concessionários e clientes",
       "resumo": "Apesar do registro, empresa enxerga conservadorismo e fidelidade dos clientes às picapes médias tradicionais",
       "fonte": "Quatro Rodas",
@@ -79,32 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Ford Mustang GT Performance volta ao Brasil com motor V8 de 492 cv por R$ 569.000",
-      "resumo": "Muscle car retorna ao catálogo da Ford e está posicionado R$ 80.000 abaixo do Mustang Dark Horse",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/ford-mustang-gt-performance-v8-preco-brasil/",
-      "data": "2026-10-30T20:12:08+00:00",
-      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzMzAwOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kevin Bhagat",
-      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Caoa Changan CS55 PHEV flex já está nas concessionárias, mas prazo de entrega pode assustar",
-      "resumo": "Versão híbrida é importada da China e já está nas lojas, mas test-drive ainda está proibido",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/caoa-changan-cs55-phev-flex-ja-esta-nas-concessionarias-mas-prazo-de-entrega-pode-assustar/",
-      "data": "2026-10-30T18:25:38+00:00",
-      "imagem": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Peter Broomfield",
-      "credito_link": "https://unsplash.com/@peterbroomfield?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Clientes já dirigiram novas VW Amarok e Tukan bem antes do lançamento para dar opiniões",
       "resumo": "Prometidas para 2027, dupla já foi avaliada por interessados do agronegócio e frotistas antes de sequer terem sido reveladas totalmente",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1611740801331-d8b5d6962822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Media Studio Hong Kong",
       "credito_link": "https://unsplash.com/@mediastudiohk?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Volkswagen enfrenta dilema: elétricos vendem mais, mas dão menos lucro",
-      "resumo": "Grupo diz que avanço dos elétricos pressiona resultados financeiros, mesmo com 40% das encomendas na Europa sendo de modelos a bateria",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813894/volkswagen-eletricos-lucro-volume-combust%C3%A3o/",
-      "data": "2026-10-30T16:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzMDA5Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Dirigimos o Lepas L6 híbrido na China: SUV agrada na estrada, mas precisa melhorar por dentro",
-      "resumo": "Rodamos 720 km pela China com o SUV de 279 cv que chegará ao Brasil em 2027",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/features/813893/impressoes-lepas-l6-hibrido-suv/",
-      "data": "2026-10-30T14:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMzNzY2MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "John Lord Vicente",
-      "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
