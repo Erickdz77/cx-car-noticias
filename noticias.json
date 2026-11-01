@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Nova plataforma elétrica da GM é tão eficiente que baterias podem ser 20% menores",
+      "resumo": "Nova geração promete reduzir peso e custos de produção, enquanto arquitetura eletrônica terá 40 vezes mais poder de processamento",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/nova-plataforma-eletrica-da-gm-e-tao-eficiente-que-baterias-podem-ser-20-menores/",
+      "data": "2026-11-01T18:00:01+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNTUyNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Mercedes leva tecnologia da F1 ao GLB 250 com novo motor 1.5 com turbo elétrico",
       "resumo": "SUV troca motor 2.0 por conjunto de 231 cv com turbo elétrico e sistema híbrido leve de 48 V para reduzir consumo e emissões",
       "fonte": "Quatro Rodas",
@@ -10,6 +23,19 @@
       "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Stefan Rodriguez",
       "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Chery nasceu de um Seat Toledo, motor Ford e um jeitinho chinês",
+      "resumo": "Primeiro carro da Chery, o Fulwin surgiu em 1999 com carroceria do Seat Toledo, motor de origem Ford e sem autorização para produção na China.",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/813980/historia-automotiva-chery-primeiro-carro/",
+      "data": "2026-11-01T15:31:05+00:00",
+      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM1NTI2MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
@@ -92,19 +118,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Carro guinchado: como descobrir onde está, liberar do pátio e o que pode ser cobrado",
-      "resumo": "Multas, taxas de remoção e diárias entram na conta; veja o que a lei permite cobrar e o prazo antes de o veículo ir a leilão",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/carro-guinchado-descobrir-onde-esta-liberar-patio-o-que-pode-ser-cobrado/",
-      "data": "2026-11-01T08:00:57+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Fiat completa meio século e com nove modelos que foram pioneiros",
       "resumo": "Marca inaugurou fábrica em Betim em 1976 e introduziu soluções e categorias que ajudaram a transformar o mercado brasileiro de automóveis.",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0Njc3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Semana Motor1: BAIC, DFM e Jetour G700 chegam ao Brasil; VW Tukan, BYD e mais",
-      "resumo": "Novas marcas chinesas iniciam vendas, Jetour lança SUV de 905 cv e VW estuda trazer ID. Polo em 2028",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/features/813934/semana-motor1-baic-dfm-jetour/",
-      "data": "2026-10-31T14:13:33+00:00",
-      "imagem": "https://images.unsplash.com/photo-1766353134008-bb3b8b99ddd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ2Nzc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Paul Lichtblau",
-      "credito_link": "https://unsplash.com/@laup?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
