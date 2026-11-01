@@ -2,6 +2,71 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Mercedes leva tecnologia da F1 ao GLB 250 com novo motor 1.5 com turbo elétrico",
+      "resumo": "SUV troca motor 2.0 por conjunto de 231 cv com turbo elétrico e sistema híbrido leve de 48 V para reduzir consumo e emissões",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/mercedes-leva-tecnologia-da-f1-ao-glb-250-com-novo-motor-1-5-com-turbo-eletrico/",
+      "data": "2026-11-01T17:00:14+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Fiat Titano tem desconto de R$ 82.100 e sai a preço da Toro em promoção",
+      "resumo": "Picape média é oferecida por R$ 186.390; condição exige um modelo na troca e é destinada para pessoa jurídica",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/fiat-titano-volcano-desconto-preco-toro-venda-direta/",
+      "data": "2026-11-01T14:00:42+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Após um ano montando carros no Brasil, fábrica da BYD vai ganhar soldagem e pintura",
+      "resumo": "Complexo já fez 150 mil unidades e agora testa novas etapas para chegar aos 50% de produção local",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813928/um-ano-fabrica-byd-brasil/",
+      "data": "2026-11-01T13:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NTEyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Meritt Thomas",
+      "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "VW Polo elétrico ou T-Cross elétrico: qual modelo tem mais chances no Brasil?",
+      "resumo": "Marca quer levar os modelos ao Brasil e o ID.Cross tem mais chances que o ID.Polo, mas modelos travam em preços e autonomia",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/vw-polo-eletrico-ou-t-cross-eletrico-qual-modelo-tem-mais-chances-no-brasil/",
+      "data": "2026-11-01T12:00:32+00:00",
+      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Felipe Simo",
+      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "GWM Ora 5: medimos o consumo real e a eficiência em 360 km",
+      "resumo": "Testamos o SUV em trechos urbanos, rodoviários e de serra para avaliar sua eficiência energética e o custo de utilização",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/reviews/813931/gwm-ora5-teste-eficiencia-eletrico/",
+      "data": "2026-11-01T12:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NTEyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "GWM Tank 400 já está no Brasil com 421 cv e tração 4×4 de verdade",
       "resumo": "Híbrido plug-in com chassi foca em entregar mais requinte no off-road e custará cerca de R$ 400.000",
       "fonte": "Quatro Rodas",
@@ -40,19 +105,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Exclusivo: BYD já testa picape menor que a Mako para não errar contra Fiat Strada e VW Tukan",
-      "resumo": "Nova picape híbrida plug-in de entrada compartilhará plataforma do BYD King e ficará abaixo da Mako e da Shark. Lançamento ocorre só em 2027",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/exclusivo-byd-ja-testa-picape-menor-que-a-mako-para-nao-errar-contra-fiat-strada-e-vw-tukan/",
-      "data": "2026-10-31T19:01:32+00:00",
-      "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDc5MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Luke Miller",
-      "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Fiat completa meio século e com nove modelos que foram pioneiros",
       "resumo": "Marca inaugurou fábrica em Betim em 1976 e introduziu soluções e categorias que ajudaram a transformar o mercado brasileiro de automóveis.",
@@ -79,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Óleo de câmbio dura para sempre? Mito do fluido vitalício causa danos graves",
-      "resumo": "Fabricantes indicam fluido de transmissão como vitalício, mas trânsito urbano exige trocas preventivas para evitar trancos e reparos caros na oficina",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/oleo-de-cambio-vitalicio-troca-preventiva/",
-      "data": "2026-10-31T15:00:32+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Tesla faz dobradinha histórica na Europa; Jaecoo 7 surpreende",
       "resumo": "Model Y e Model 3 garantem as duas primeiras posições em setembro; Jaecoo 7 se torna o primeiro carro chinês a entrar no top 10 europeu.",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1766353134008-bb3b8b99ddd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ2Nzc0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Paul Lichtblau",
       "credito_link": "https://unsplash.com/@laup?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Fiat Strada Freedom CD 2027 tem promoção e passa a custar menos que versão de entrada",
-      "resumo": "Ação promocional voltada a produtores rurais e empresas reduz o preço da picape compacta para R$ 108.660",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/fiat-strada-freedom-cabine-dupla-desconto-cnpj/",
-      "data": "2026-10-31T13:09:40+00:00",
-      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tim Meyer",
-      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Teste Audi A6 Avant e-Tron: celebremos a coragem de sair do comum e se diferenciar na multidão",
-      "resumo": "O charme das peruas segue vivo e se tornou carro para quem se diferencia dos demais",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/reviews/811788/teste-audi-a6-avant-eletrico/",
-      "data": "2026-10-31T12:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NTEyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "ZF dá cérebro novo a câmbio de caminhão que prevê subidas e se protege de hackers",
-      "resumo": "TraXon 2 lê a estrada 2 km adiante, recebe atualizações online e será feita no Brasil em 2027",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813946/zf-novo-cambio-preve-subidas/",
-      "data": "2026-10-30T21:15:44+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTMyODA1NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
