@@ -2,6 +2,45 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "GWM Tank 400 já está no Brasil com 421 cv e tração 4×4 de verdade",
+      "resumo": "Híbrido plug-in com chassi foca em entregar mais requinte no off-road e custará cerca de R$ 400.000",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/gwm-tank-400-ja-esta-no-brasil-com-421-cv-e-tracao-4x4-de-verdade/",
+      "data": "2026-11-01T10:00:59+00:00",
+      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Ildar Garifullin",
+      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Honda NSX 1991 de Ayrton Senna é vendido em leilão por R$ 6,3 milhões",
+      "resumo": "Esportivo vermelho ficava na garagem do tricampeão em Portugal; Senna participou do desenvolvimento do projeto e carro tem documentação oficial da fabricante",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/honda-nsx-1991-de-ayrton-senna-e-vendido-em-leilao-por-r-63-milhoes/",
+      "data": "2026-11-01T08:30:05+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Lance Asper",
+      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Carro guinchado: como descobrir onde está, liberar do pátio e o que pode ser cobrado",
+      "resumo": "Multas, taxas de remoção e diárias entram na conta; veja o que a lei permite cobrar e o prazo antes de o veículo ir a leilão",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/carro-guinchado-descobrir-onde-esta-liberar-patio-o-que-pode-ser-cobrado/",
+      "data": "2026-11-01T08:00:57+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Exclusivo: BYD já testa picape menor que a Mako para não errar contra Fiat Strada e VW Tukan",
       "resumo": "Nova picape híbrida plug-in de entrada compartilhará plataforma do BYD King e ficará abaixo da Mako e da Shark. Lançamento ocorre só em 2027",
       "fonte": "Quatro Rodas",
@@ -92,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Jetour F700 no Brasil? Marca teme efeito “Shark”, mas quer ouvir concessionários e clientes",
-      "resumo": "Apesar do registro, empresa enxerga conservadorismo e fidelidade dos clientes às picapes médias tradicionais",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/jetour-f700-no-brasil-marca-teme-efeito-shark-mas-quer-ouvir-concessionarios-e-clientes/",
-      "data": "2026-10-31T12:00:59+00:00",
-      "imagem": "https://images.unsplash.com/photo-1762170904867-eda21916d7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTM0NTEyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "majed swan",
-      "credito_link": "https://unsplash.com/@majedswan?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Teste Audi A6 Avant e-Tron: celebremos a coragem de sair do comum e se diferenciar na multidão",
       "resumo": "O charme das peruas segue vivo e se tornou carro para quem se diferencia dos demais",
@@ -114,32 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NTEyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Håkon Sataøen",
       "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Volkswagen suspende o projeto do Golf elétrico para reduzir prejuízos",
-      "resumo": "Desenvolvimento do ID. Golf foi interrompido temporariamente após resultados financeiros abaixo das metas; lançamento pode sofrer novos atrasos",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/volkswagen-suspende-o-projeto-do-golf-eletrico-para-reduzir-prejuizos/",
-      "data": "2026-10-31T10:00:36+00:00",
-      "imagem": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDUxMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Dhiva Krishna",
-      "credito_link": "https://unsplash.com/@dhivakrishna?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Drone da PRF flagra motoristas na BR-101: quais infrações viram multa e como recorrer",
-      "resumo": "Fiscalização sem abordagem é prevista no CTB, mas tem requisitos; entenda o que deve constar na notificação e quando cabe defesa",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/drone-prf-flagra-motoristas-br-101-quais-infracoes-viram-multa-como-recorrer/",
-      "data": "2026-10-31T08:00:53+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDA2NjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
