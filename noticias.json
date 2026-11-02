@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Granizo danificou o carro: veja se o seguro cobre e o que fazer primeiro",
+      "resumo": "A cobertura depende do tipo de seguro contratado; saiba como confirmar na apólice e o que fazer antes de acionar a seguradora",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/granizo-danificou-carro-seguro-cobre-o-que-fazer/",
+      "data": "2026-11-02T00:00:38+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDc5MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Estes são os 10 carros mais baratos do Brasil em novembro de 2026",
+      "resumo": "Mobi lidera ranking com preço promocional de R$ 72.490; levantamento mostra que carros de entrada encareceram apesar da queda real no mercado.",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813987/carros-mais-baratos-brasil-novembro-2026-precos/",
+      "data": "2026-11-01T19:16:28+00:00",
+      "imagem": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ3OTA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Goh Rhy Yan",
+      "credito_link": "https://unsplash.com/@gohrhyyan?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Nova plataforma elétrica da GM é tão eficiente que baterias podem ser 20% menores",
       "resumo": "Nova geração promete reduzir peso e custos de produção, enquanto arquitetura eletrônica terá 40 vezes mais poder de processamento",
       "fonte": "Quatro Rodas",
@@ -10,6 +36,19 @@
       "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNTUyNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuriy Bogdanov",
       "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Jetour G700: vale pagar R$ 30 mil pela versão de 6 lugares?",
+      "resumo": "Mesmo conjunto híbrido e tração 4x4: diferença está na cabine, equipamentos e espaço para bagagens",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/813984/jetour-g700-5-6-lugares-diferencas/",
+      "data": "2026-11-01T17:56:06+00:00",
+      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ3OTA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Olav Tvedt",
+      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
@@ -105,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Honda NSX 1991 de Ayrton Senna é vendido em leilão por R$ 6,3 milhões",
-      "resumo": "Esportivo vermelho ficava na garagem do tricampeão em Portugal; Senna participou do desenvolvimento do projeto e carro tem documentação oficial da fabricante",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/honda-nsx-1991-de-ayrton-senna-e-vendido-em-leilao-por-r-63-milhoes/",
-      "data": "2026-11-01T08:30:05+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDY3NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Fiat completa meio século e com nove modelos que foram pioneiros",
       "resumo": "Marca inaugurou fábrica em Betim em 1976 e introduziu soluções e categorias que ajudaram a transformar o mercado brasileiro de automóveis.",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1617814086906-d847a8bc6fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzQ3OTA3MXww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Flavien",
       "credito_link": "https://unsplash.com/@faliven?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Prometido para 2026, BYD Song Plus nacional não tem data para chegar",
-      "resumo": "Atto 2 ganhou prioridade em Camaçari, mas chinesa garante que SUV maior ainda será produzido no Brasil",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813949/byd-song-plus-producao-nacional/",
-      "data": "2026-10-31T17:19:14+00:00",
-      "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0NzkwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Meritt Thomas",
-      "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Tesla faz dobradinha histórica na Europa; Jaecoo 7 surpreende",
-      "resumo": "Model Y e Model 3 garantem as duas primeiras posições em setembro; Jaecoo 7 se torna o primeiro carro chinês a entrar no top 10 europeu.",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/813962/ranking-vendas-europa-tesla-jaecoo/",
-      "data": "2026-10-31T14:42:22+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM0Njc3NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
