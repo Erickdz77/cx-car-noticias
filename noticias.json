@@ -1,6 +1,19 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Cadeirinha no carro: o que diz a lei, qual dispositivo usar e como instalar corretamente",
+      "resumo": "Confira as regras do CTB e do Contran, as exceções para o banco da frente e os cuidados com o airbag",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/cadeirinha-carro-lei-qual-dispositivo-usar-como-instalar/",
+      "data": "2026-11-03T00:00:38+00:00",
+      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTM2ODUxNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler H",
+      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Adeus, Oroch: Renault confirma fim da produção da picape após 11 anos",
       "resumo": "Pioneira entre as picapes intermediárias, modelo derivado do Duster sai de cena para dar lugar à nova Renault Niagara, baseada no Boreal",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNjM5OTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Joshua Koblin",
       "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Granizo danificou o carro: veja se o seguro cobre e o que fazer primeiro",
-      "resumo": "A cobertura depende do tipo de seguro contratado; saiba como confirmar na apólice e o que fazer antes de acionar a seguradora",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/granizo-danificou-carro-seguro-cobre-o-que-fazer/",
-      "data": "2026-11-02T00:00:38+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzNDc5MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
