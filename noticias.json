@@ -1,6 +1,32 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Podcast Motor1 #339: BYD pode superar Fiat e VW no Brasil?",
+      "resumo": "Avanço da fábrica da BYD e chegada de novas marcas chinesas colocam tradicionais em xeque",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/814456/podcast-motor1-339-byd-fiat-volkswagen/",
+      "data": "2026-11-05T00:28:12+00:00",
+      "imagem": "https://images.unsplash.com/photo-1554223090-7e482851df45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM4NDM4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Hyundai HB20 tem melhor resultado em um ano e adia aposentadoria",
+      "resumo": "Mesmo com o lançamento do Hyundai i20, hatch terá sobrevida no mercado nacional e outro foco dentro da gama da marca",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/hyundai-hb20-vendas-outubro/",
+      "data": "2026-11-04T23:00:50+00:00",
+      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODQzODUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tim Meyer",
+      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Lexus ES 500e chega ao Brasil como primeiro sedã elétrico da marca por R$ 549.990",
       "resumo": "Sedã oferece 343 cv de potência, tração integral e autonomia de até 378 km, segundo o Inmetro",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "BYD vende 305 mil elétricos em outubro, mas perde vendas na China",
-      "resumo": "Híbridos plug-in recuaram 17,2% e exportações mais que dobraram em relação a outubro de 2025",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814152/byd-passa-de-300-mil/",
-      "data": "2026-11-04T15:01:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM4Mjg0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Veja o ranking das 10 marcas de carros mais valiosas do mundo em 2026",
       "resumo": "Maioria das montadoras registram queda em valor de mercado; Ferrari e Hyundai sobem",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1524102724373-bcf6ed410592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODA2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Hayes Potter",
       "credito_link": "https://unsplash.com/@hayespotter?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BYD Yangwang Altior será rival chinês do Rolls-Royce Ghost",
-      "resumo": "Modelo elétrico promete performance equivalente aos esportivos da BYD, mas com visual elegante",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/byd-yangwang-altior-sera-rival-chines-do-rolls-royce-ghost/",
-      "data": "2026-11-04T13:30:20+00:00",
-      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODA2Njc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jonathan Gallegos",
-      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
