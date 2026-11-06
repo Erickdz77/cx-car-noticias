@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Fiat Argo X nacional é mais careta que irmão europeu; veja flagra",
+      "resumo": "Flagra do modelo fabricado em Betim (MG) mostra que os designers abriram mão das ousadias do Grande Panda em prol da simetria e de pintura bicolor",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/fiat-argo-x-sem-camuflagem-diferencas-grande-panda-motores/",
+      "data": "2026-11-06T03:22:02+00:00",
+      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzOTM1ODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jonathan Gallegos",
+      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Andar devagar com o carro dá multa? Entenda a regra da velocidade mínima no CTB",
+      "resumo": "A infração só se caracteriza em condições específicas; saiba quais são",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/andar-devagar-multa-entenda-regra-velocidade-minima-ctb/",
+      "data": "2026-11-06T00:00:52+00:00",
+      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzOTM1ODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Ildar Garifullin",
+      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Imposto Seletivo isenta 12 carros 1.0 e taxa elétricos a partir de 2027; veja tabela completa",
       "resumo": "Governo federal publica MP com regras do Imposto Seletivo, que têm como base o IPI Verde",
       "fonte": "Quatro Rodas",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "GMW Ora 5 reduz fila e fica em terceiro entre os elétricos mais vendidos de outubro",
-      "resumo": "Ora 5 ultrapassou o Ora 03 no acumulado do ano e vendeu quase o dobro do que melhor mês anterior",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/gmw-ora-5-reduz-fila-e-fica-em-terceiro-entre-os-eletricos-mais-vendidos-de-outubro/",
-      "data": "2026-11-05T15:00:46+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODk5ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Jeep Commander e Compass também ganham série 85 anos a partir de R$ 206.990",
       "resumo": "Seguindo o que já acontece com Avenger e Renegade, modelos médios da marca ganham mais equipamentos por (quase) o mesmo preço",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM4OTk4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "John Lord Vicente",
       "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "GWM Haval H6 ultrapassa Jeep Compass e é o SUV médio mais vendido do Brasil",
-      "resumo": "Modelo pode terminar o ano tirando a posição que o Jeep Compass ocupa desde 2017",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/gwm-haval-h6-ultrapassa-jeep-compass-e-e-o-suv-medio-mais-vendido-do-brasil/",
-      "data": "2026-11-05T13:30:26+00:00",
-      "imagem": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODk5ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Dhiva Krishna",
-      "credito_link": "https://unsplash.com/@dhivakrishna?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
