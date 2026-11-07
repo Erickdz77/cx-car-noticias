@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Recusar o bafômetro é crime? Veja multa e suspensão da CNH",
+      "resumo": "Recusar o teste não livra o motorista se o agente registrar sinais de alteração; saiba como funciona a fiscalização",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/recusar-bafometro-crime-multa-suspensao-cnh/",
+      "data": "2026-11-07T10:00:13+00:00",
+      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzOTkwODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuvraj Singh",
+      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Hyundai Ioniq P: registro de inédito SUV compacto elétrico inclui o Brasil",
+      "resumo": "Modelo compacto será lançado na Índia em 2027; registro internacional da marca também contempla o mercado brasileiro",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814437/hyundai-ioniq-p-nome-revelado/",
+      "data": "2026-11-07T10:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM5OTA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "John Lord Vicente",
+      "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "CNH definitiva ou para PcD em SP: ainda é preciso solicitar?",
       "resumo": "Resolução do Contran tornou automática a emissão após o fim da Permissão para Dirigir, mas o Detran-SP ainda oferece o pedido",
       "fonte": "Quatro Rodas",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mzg5OTg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Olav Tvedt",
       "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Melhores no pós-venda: GWM lidera satisfação dos donos; VW, Jeep e BYD caem em Os Eleitos 2026",
-      "resumo": "Pesquisa de satisfação dos proprietários mostra salto de Ford e Hyundai nas concessionárias, enquanto Jeep, Volkswagen e chinesa BYD sofrem com preços e peças",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/os-eleitos/pos-venda-os-eleitos-2026-ranking-marcas-atendimento/",
-      "data": "2026-11-06T15:00:48+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzODk5ODg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Fiat Argo Urban será o nome do Argo atual como versão de entrada após chegada do Argo X",
-      "resumo": "Atual Fiat Argo seguirá à venda após a chegada do Argo X, com foco em preços baixos e vendas diretas",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814589/fiat-argo-urban-registro-inpi/",
-      "data": "2026-11-06T13:04:01+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM4OTk4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
