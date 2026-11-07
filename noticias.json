@@ -2,6 +2,58 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Meio século de Golf GTI: a história de todas as gerações do hatch esportivo da VW",
+      "resumo": "Quando chegou, a versão esportiva GTI traduzia o espírito de uma época e hoje essas três letras são icônicas",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/historia-50-anos-volkswagen-golf-gti-todas-geracoes/",
+      "data": "2026-11-07T17:00:56+00:00",
+      "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzOTIwMjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Luke Miller",
+      "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Vendas diretas em outubro: Hyundai HB20 lidera com quase 90% de seus emplacamentos na modalidade",
+      "resumo": "Leapmotor emplaca seus dois modelos na lista dos mais vendidos",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814737/analise-vendas-diretas-brasil-outubro/",
+      "data": "2026-11-07T16:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1611740801331-d8b5d6962822?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM5MjAyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Media Studio Hong Kong",
+      "credito_link": "https://unsplash.com/@mediastudiohk?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "BYD revela Yangwang Altior, seu novo rival de Rolls-Royce e Maybach",
+      "resumo": "Sedã elétrico tem quatro motores, mede 5,60 metros e promete mais de 1.000 km de autonomia pelo ciclo CLTC",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814740/byd-marca-altoluxo-yangwang-estreia/",
+      "data": "2026-11-07T15:37:34+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM5MjAyNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Semana Motor1.com: BYD bate recorde e tem estratégia flex para o Brasil, novo Omoda E5 e mais",
+      "resumo": "Semana ainda teve vendas no varejo, série especia da Jeep, Renault Niagara, novidades da Royal Enfield e vendas de elétricos",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/814701/semana-motor1-byd-omoda-e5/",
+      "data": "2026-11-07T15:29:56+00:00",
+      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5MzkyMDI0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kevin Bhagat",
+      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Fórmula 1 renova com GP de São Paulo até 2035, mas exige mais obras em Interlagos",
       "resumo": "Acordo garante a permanência da pista no calendário por mais uma década, impulsionado por recordes de público e impacto superior a R$ 2 bilhões",
       "fonte": "Quatro Rodas",
@@ -92,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Hyundai Ioniq P: registro de inédito SUV compacto elétrico inclui o Brasil",
-      "resumo": "Modelo compacto será lançado na Índia em 2027; registro internacional da marca também contempla o mercado brasileiro",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814437/hyundai-ioniq-p-nome-revelado/",
-      "data": "2026-11-07T10:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM5OTA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "John Lord Vicente",
-      "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "CNH definitiva ou para PcD em SP: ainda é preciso solicitar?",
       "resumo": "Resolução do Contran tornou automática a emissão após o fim da Permissão para Dirigir, mas o Detran-SP ainda oferece o pedido",
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MDI0ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Blake Meyer",
       "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "VW Virtus 2027 chega por R$ 116.690, perde versão básica e fica sem câmbio de oito marchas",
-      "resumo": "Único sedã nacional da marca perde versão de entrada e adia câmbio de oito marchas; veja como fica o conteúdo de cada versão",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-virtus-2027-chega-por-r-116-690-perde-versao-basica-e-fica-sem-cambio-de-oito-marchas/",
-      "data": "2026-11-06T22:00:46+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzkzOTkwODMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Volvo abre seu acervo para mostrar de onde vem a fama de segurança",
-      "resumo": "Clássicos e modelos atuais dividem exposição em São Paulo para relembrar pioneirismos da sueca que mudaram o mundo dos carros",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814730/exposicao-seguranca-volvo-gratis-brasil/",
-      "data": "2026-11-06T20:09:51+00:00",
-      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5Mzk5MDgzMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Europa vota por abrandar a restrição a carros a combustão a partir de 2035",
-      "resumo": "Parlamento Europeu propõe regras mais flexíveis para permitir híbridos e motores a gasolina",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814722/europa-abrandar-restricao-carros-combustao/",
-      "data": "2026-11-06T20:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM5OTA4MzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
