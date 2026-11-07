@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "CNH definitiva ou para PcD em SP: ainda é preciso solicitar?",
+      "resumo": "Resolução do Contran tornou automática a emissão após o fim da Permissão para Dirigir, mas o Detran-SP ainda oferece o pedido",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/cnh-definitiva-pcd-sp-ainda-e-preciso-solicitar/",
+      "data": "2026-11-07T00:00:34+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MDI0ODc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "VW Virtus 2027 chega por R$ 116.690, perde versão básica e fica sem câmbio de oito marchas",
       "resumo": "Único sedã nacional da marca perde versão de entrada e adia câmbio de oito marchas; veja como fica o conteúdo de cada versão",
       "fonte": "Quatro Rodas",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTM4OTk4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Os Eleitos 2026: GWM Haval H6 vence no geral e BYD domina pódios por categoria",
-      "resumo": "Ouvimos as opiniões de quase 4.000 proprietários de carros para eleger quais os modelos mais os satisfazem",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/os-eleitos/os-eleitos-2026-carros-marcas-mais-satisfazem-donos/",
-      "data": "2026-11-06T12:30:44+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTM4OTk4ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joey Banks",
-      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
