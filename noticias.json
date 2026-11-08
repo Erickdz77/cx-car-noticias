@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Wrangler Scrambler SRT: como a Jeep transformou seu jipe V8 em picape com suspensão inédita",
+      "resumo": "Protótipo Scrambler SRT aposta em suspensão dianteira independente e caçamba com bancos removíveis para enfrentar o deserto",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/jeep-wrangler-scrambler-srt-concept-picape-sema-show/",
+      "data": "2026-11-08T12:06:24+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MTQ1NTExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Comprou carro usado? Veja como transferir pelo celular e evitar multa",
+      "resumo": "Transferência digital pode ser feita em até cinco minutos pelo aplicativo do Poupatempo",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/comprou-carro-usado-como-transferir-celular-evitar-multa/",
+      "data": "2026-11-08T10:00:26+00:00",
+      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQxNDU1MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler Clemmensen",
+      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Renovar ou tirar a 2ª via da CNH: o passo a passo com as regras de 2026",
       "resumo": "Entenda quem pode usar a renovação automática, a validade por idade e o passo a passo da segunda via da habilitação",
       "fonte": "Quatro Rodas",
@@ -92,19 +118,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Fiat Pulse 1.3 ganha R$ 9.000 de desconto e fica mais barato que o Argo 1.0",
-      "resumo": "Versão de entrada do SUV compacto está em oferta por R$ 95.990 até a segunda quinzena de novembro; lote promocional é limitado",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/fiat-pulse-drive-manual-desconto-black-friday-preco-argo/",
-      "data": "2026-11-07T15:07:39+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MDcwNTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Denza já vende mais que Mercedes e vai para cima da BMW",
       "resumo": "Com 620 carros emplacados em outubro, chinesa supera Mercedes-Benz e B5 lidera há cinco meses",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQwNzA1NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Jeep Compass e Commander ganham edição limitada com sistema de 48V e teto solar de série",
-      "resumo": "Edições comemorativas têm base nas versões Longitude e Limited, adicionam teto solar panorâmico de série e partem de R$ 206.990 nas lojas brasileiras",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/jeep-compass-e-commander-ganham-edicao-limitada-com-sistema-de-48v-e-teto-solar-de-serie/",
-      "data": "2026-11-07T12:00:38+00:00",
-      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MDcwNTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Ildar Garifullin",
-      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
