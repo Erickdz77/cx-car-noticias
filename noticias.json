@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Os Eleitos: os três carros chineses que têm os proprietários mais satisfeitos de 2026",
+      "resumo": "Haval H6, BYD King e Dolphin Mini ocupam o pódio de Os Eleitos 2026. Enquanto a GWM brilha nas concessionárias, a BYD amarga a última posição no atendimento",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/os-eleitos/os-eleitos-os-tres-carros-chineses-que-tem-os-proprietarios-mais-satisfeitos-de-2026/",
+      "data": "2026-11-08T20:23:02+00:00",
+      "imagem": "https://images.unsplash.com/photo-1493238792000-8113da705763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MDk2NTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Evgeny Tchebotarev",
+      "credito_link": "https://unsplash.com/@ev25?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Ferrari Luce tem produção esgotada até 2028, mesmo após polêmica de design",
       "resumo": "Primeiro elétrico da marca causou polêmico, derrubou ações da empresa, mas faz sucesso entre os clientes",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1570280406792-bf58b7c59247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQxNjMwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Toni Zaat",
       "credito_link": "https://unsplash.com/@tonizaat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Comprou carro usado? Veja como transferir pelo celular e evitar multa",
-      "resumo": "Transferência digital pode ser feita em até cinco minutos pelo aplicativo do Poupatempo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/comprou-carro-usado-como-transferir-celular-evitar-multa/",
-      "data": "2026-11-08T10:00:26+00:00",
-      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQxNDU1MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler Clemmensen",
-      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
