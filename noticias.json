@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Pintura ou envelopamento: como funciona a troca de cor do carro?",
+      "resumo": "Envelopamento total exige autorização prévia do Detran e um novo CRLV-e; faixas e adesivos menores ficam fora da regra",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/pintura-envelopamento-como-funciona-troca-de-cor-do-carro/",
+      "data": "2026-11-09T10:00:30+00:00",
+      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjE4NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jonathan Gallegos",
+      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Trocar o combustível do carro: o que a lei permite e como regularizar o GNV",
       "resumo": "A conversão para GNV mantém a gasolina ou o etanol, mas exige autorização do Detran, oficina registrada no Inmetro e CSV a cada licenciamento",
       "fonte": "Quatro Rodas",
@@ -88,19 +101,6 @@
       "imagem": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDE2MzAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Goh Rhy Yan",
       "credito_link": "https://unsplash.com/@gohrhyyan?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Yangwang Altior é sedã elétrico gigante da BYD para brigar com Rolls-Royce",
-      "resumo": "Sedã de 5,60 metros tem quatro motores independentes, cabine com jade verdadeiro no acabamento e até flutua na água para rivalizar com marcas de ultraluxo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/yangwang-altior-e-seda-eletrico-gigante-da-byd-para-brigar-com-rolls-royce/",
-      "data": "2026-11-08T14:59:08+00:00",
-      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MTYzMDM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jonathan Gallegos",
-      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
