@@ -1,6 +1,71 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Yamaha NMax 2027 é lançada com truque da Aerox mais barata",
+      "resumo": "Novidade com a mudança de ano modelo vem na suspensão traseira, usando conjunto similar ao encontrado na scooter mais em conta",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814915/yamaha-nmax-2027-preco-mudancas/",
+      "data": "2026-11-10T11:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Ciclomotor e scooter elétrica: quando é preciso ter ACC ou CNH?",
+      "resumo": "Quem tem apenas CNH B não pode conduzir ciclomotor; entenda como incluir a autorização ou a categoria A",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/ciclomotor-scooter-eletrica-quando-preciso-ter-acc-ou-cnh/",
+      "data": "2026-11-10T10:00:03+00:00",
+      "imagem": "https://images.unsplash.com/photo-1506610654-064fbba4780c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Florian Schneider",
+      "credito_link": "https://unsplash.com/@flotography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Picapes em outubro: Renault Niagara já tem unidades emplacadas e Fiat tem metade do mercado",
+      "resumo": "Enquanto isso, a GWM Poer P30 registrou recorde de emplacamentos no mês passado",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814917/picapes-mais-vendidas-outubro-brasil/",
+      "data": "2026-11-10T10:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "CAOA Changan confirma Deepal e Nevo e terá 8 lançamentos no Brasil em 2027",
+      "resumo": "Fabricante prepara ofensiva de modelos eletrificados e quer dobrar sua presença no mercado brasileiro",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814922/caoa-confirma-deepal-nevo-brasil/",
+      "data": "2026-11-10T09:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1566008885218-90abf9200ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Lance Asper",
+      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "CAOA Changan CS55 agora parte de R$ 139.990 e fica mais barato que Avenger",
+      "resumo": "Versão de entrada já havia sido lançada em setembro, mas era vendida sob encomenda",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814925/caoa-changan-derruba-preco-cs55/",
+      "data": "2026-11-10T08:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Caoa Changan terá oito carros inéditos e vai dobrar produção no Brasil em 2027",
       "resumo": "Marcas Deepal e Nevo farão sua estreia no mercado nacional, com motorização REEV flex e elétricos em nova ofensiva da marca chinesa",
@@ -79,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Híbrido flex estreia no mercado indiano em novembro com a Toyota",
-      "resumo": "Innova Hycross usará conjunto com motor 2.0, contra o 1.8 dos Corolla Hybrid brasileiros",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814893/toyota-primeiro-flex-da-india/",
-      "data": "2026-11-09T19:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQyNTc2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jon Koop",
-      "credito_link": "https://unsplash.com/@jon_koop?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Nova Toyota Hilux 2027 estreia primeiro como papamóvel na Argentina",
       "resumo": "Picape fabricada em Zárate recebe adaptações para o Papa León XIV e revela de forma inédita o novo design da dianteira que chega ao mercado em dezembro",
@@ -101,58 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjU3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Tim Meyer",
       "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "IPVA SP 2027: veja os valores, descontos, as datas por final de placa e como parcelar o imposto",
-      "resumo": "Pagamento integral em janeiro garante 3% de abatimento; caminhões têm calendário próprio, com parcelas sempre no dia 22",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814901/ipva-sp-2027-calendario-descontos/",
-      "data": "2026-11-09T18:10:53+00:00",
-      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDI1NzY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Olav Tvedt",
-      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "BYD estaria planejando nova fábrica no Brasil para veículos comerciais, diz colunista",
-      "resumo": "Segundo Jorge Moraes, da CNN, chinesa já programa nova fase de investimentos em nosso mercado",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814896/byd-nova-fabrica-brasil-comerciais/",
-      "data": "2026-11-09T17:34:33+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQyNTc2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "VW Tempest chega ao Brasil com 174 cv, tecnologia chinesa e mira na Ducato",
-      "resumo": "Projeto liderado pela SAIC Maxus estreia no mercado nacional no início de 2027 focado no transporte de carga volumosa e motoristas com habilitação convencional",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-tempest-chega-ao-brasil-com-174-cv-tecnologia-chinesa-e-mira-na-ducato/",
-      "data": "2026-11-09T17:00:12+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQyNTc2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Tempest: nova van da VW chega com 174 cv, ADAS e 1.000 unidades já vendidas contra Fiat Ducato",
-      "resumo": "Projeto nasceu de parceria com a SAIC Maxus, passou por mais de 250 adaptações e terá 150 VW Van Centers dedicados",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814882/vw-tempest-potencia-equipamentos/",
-      "data": "2026-11-09T17:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDI1NzY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuvraj Singh",
-      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
