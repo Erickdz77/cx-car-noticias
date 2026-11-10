@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Caoa Changan terá oito carros inéditos e vai dobrar produção no Brasil em 2027",
+      "resumo": "Marcas Deepal e Nevo farão sua estreia no mercado nacional, com motorização REEV flex e elétricos em nova ofensiva da marca chinesa",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/caoa-changan-tera-oito-carros-ineditos-e-vai-dobrar-producao-no-brasil-em-2027/",
+      "data": "2026-11-10T01:36:16+00:00",
+      "imagem": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjgwMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Aaron Huber",
+      "credito_link": "https://unsplash.com/@aahubs?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Caoa Changan completa um ano, corta preços e CS55 Prime fica mais barato que Tera e Avenger",
+      "resumo": "Para celebrar um ano de Brasil, fabricante reduz tabela dos SUVs CS55 e Uni-T; bônus de troca e taxa zero acirram disputa com os utilitários compactos",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/caoa-changan-cs55-uni-t-preco-desconto/",
+      "data": "2026-11-10T00:04:53+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQyODAwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Volkswagen Nivus 2027 fica sem câmbio de 8 marchas e beira os R$ 195.000; veja versões e equipamentos",
+      "resumo": "SUV cupê ignora a transmissão de oito marchas do novo T-Cross e do Tera; configurações preservam a mesma lista de itens de série do ano anterior",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/volkswagen-nivus-2027-nao-tem-cambio-de-8-marchas-e-beira-os-r-195-000-veja-versoes-e-equipamentos/",
+      "data": "2026-11-09T22:00:25+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjgwMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Lance Asper",
+      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Motor1 estreia 2 Tempos, novo podcast dedicado às motos",
+      "resumo": "Programa traz lançamentos, avaliações, dicas de compra e análises do mercado de motos",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/814912/motor1-estreia-2-tempos-podcast-motos/",
+      "data": "2026-11-09T22:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQyODAwMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jon Koop",
+      "credito_link": "https://unsplash.com/@jon_koop?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Fiat Fastback híbrido 2027 tem promoção com mais de R$ 40 mil de desconto no preço de tabela",
       "resumo": "Versão híbrida está em promoção antes da Black Friday com redução grande nos valores",
@@ -101,58 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDI1NzY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuvraj Singh",
       "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Nova Toyota Hilux: Papa Leão XIV será o primeiro a andar na nova geração na Argentina",
-      "resumo": "Duas picapes feitas na Argentina já trazem o visual da nova geração, que será lançada em dezembro",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814861/primeira-hilux-2027-sera-papamovel/",
-      "data": "2026-11-09T16:37:43+00:00",
-      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQyNTc2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jonathan Gallegos",
-      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "IPVA 2027 em SP terá desconto de 3% e até cinco parcelas; veja datas e valores",
-      "resumo": "Calendário começa em 11 de janeiro e permite pagamento à vista com desconto ou parcelamento sem juros até maio",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/ipva-2027-em-sp-tera-desconto-de-3-e-ate-cinco-parcelas-veja-datas-e-valores/",
-      "data": "2026-11-09T15:00:20+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjU3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Ford confirma nova picape média mais barata que a Ranger para 2027",
-      "resumo": "Inédito modelo global mira marcas chinesas e promete reduzir custos de produção em 20% em comparação à Ranger",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/ford-confirma-nova-picape-media-mais-barata-que-a-ranger-para-2027/",
-      "data": "2026-11-09T13:30:22+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjU3NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BYD Atto 2 toma lugar do King na fábrica de Camaçari e sedã pode voltar em nova geração",
-      "resumo": "BYD projeta uma expansão de curto prazo nas vendas do SUV, enquanto estoques do sedã estão garantidos até o final do ano",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/byd-atto-2-assume-fabrica-camacari-lugar-king/",
-      "data": "2026-11-09T11:30:43+00:00",
-      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQyNTc2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Olav Tvedt",
-      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
