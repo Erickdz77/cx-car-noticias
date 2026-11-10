@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Titano, Hilux e S10: os papamóveis sul-americanos de Leão XIV",
+      "resumo": "Antes de ser papa, Robert Prevost guiava um Fusion manual, uma picape Mahindra e botava a mão na graxa",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/815054/papa-leao-picapes-papamovel-historia/",
+      "data": "2026-11-10T20:01:13+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzNTQ3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Teste: BAIC Arcfox T1 tem preço, porte e tecnologia para ser o rival que o BYD Dolphin não queria",
+      "resumo": "BAIC Arcfox T1 é o primeiro carro da marca comercializado no Brasil, tem a mesma receita que a maioria dos modelos elétricos de entrada e itens que surpreendem",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/testes/teste-baic-arcfox-t1-tem-preco-porte-e-tecnologia-para-ser-o-rival-que-o-byd-dolphin-nao-queria/",
+      "data": "2026-11-10T20:00:51+00:00",
+      "imagem": "https://images.unsplash.com/photo-1524102724373-bcf6ed410592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MjE4NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Hayes Potter",
+      "credito_link": "https://unsplash.com/@hayespotter?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Renault Niagara estreia no Brasil a partir de R$ 139.990 com motor 1.3 turbo",
+      "resumo": "Nova picape intermediária monobloco ameaça a hegemonia da Fiat Toro com espaço interno, 8 anos de garantia e preços agressivos no primeiro lote",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/renault-niagara-precos-versoes-equipamentos-motor/",
+      "data": "2026-11-10T19:00:09+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQyMTg1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joey Banks",
+      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Renault Niagara chega ao Brasil com 4 versões e preços partem de R$ 139.990; 4x4 fica para 2027",
+      "resumo": "Marca inicia pré-venda no Brasil e a picape chega às lojas em 23 de novembro",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/814906/renault-niagara-brasil-precos-versoes/",
+      "data": "2026-11-10T19:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzNTQ3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Caoa Chery terá Tiggo 5X HEV e quatro lançamentos inéditos em 2027",
       "resumo": "SUV de entrada, Tiggo 2 também está cotado para a lista de lançamentos da marca previstos para o ano que vem",
@@ -101,58 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MzEwMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Tim Meyer",
       "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Carro elétrico de R$ 9.900 no Brasil? Entenda a notícia que circula nas redes sociais",
-      "resumo": "Boatos nas redes sociais usam os chineses Aima A05 e Wuling Mini EV para prometer carros elétricos por menos de R$ 10.000",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/carro-eletrico-de-r-9-900-no-brasil-entenda-a-noticia-falsa-que-circula-nas-redes-sociais/",
-      "data": "2026-11-10T13:18:05+00:00",
-      "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MzEwMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Luke Miller",
-      "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Conheça BAIC, DFM, IM Motors e iCaur: as novas marcas chinesas do Brasil",
-      "resumo": "Em 2027, o mercado brasileiro terá mais de 30 marcas de automóveis da China, parte com fabricação local",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/conheca-baic-dfm-im-motors-e-icaur-as-novas-marcas-chinesas-do-brasil/",
-      "data": "2026-11-10T13:00:14+00:00",
-      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Olav Tvedt",
-      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Honda Avancier: marca japonesa antecipa mais um SUV híbrido, mas pode suceder a Accord perua",
-      "resumo": "Imagens iniciais mostram um SUV híbrido em forma de perua, antecipando a tecnologia híbrida da Honda",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/814910/honda-teaser-novo-suv/",
-      "data": "2026-11-10T13:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Brandon Atchison",
-      "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Teste: BYD Song Pro é promovido, melhora com RG brasileiro e tempero local na receita",
-      "resumo": "Abrindo espaço ao Atto 2, SUV médio ouviu as reclamações para subir de patamar dentro da marca",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/reviews/814777/teste-byd-song-pro-flex/",
-      "data": "2026-11-10T12:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1766353134008-bb3b8b99ddd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDMxMDE0NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Paul Lichtblau",
-      "credito_link": "https://unsplash.com/@laup?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
