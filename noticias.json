@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Quando trocar e calibrar os pneus do carro? Veja os sinais de desgaste",
+      "resumo": "Resolução do Contran define quando o pneu não pode mais circular; idade, danos e calibragem dependem de orientação dos fabricantes",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/quando-trocar-e-calibrar-pneus-veja-sinais-desgaste/",
+      "data": "2026-11-11T10:00:17+00:00",
+      "imagem": "https://images.unsplash.com/photo-1506610654-064fbba4780c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQyODAwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Florian Schneider",
+      "credito_link": "https://unsplash.com/@flotography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Bicicleta elétrica e patinete precisam de placa ou habilitação? Entenda as regras do Contran",
       "resumo": "Ter acelerador não transforma automaticamente o veículo em ciclomotor; saiba o que diz a resolução",
       "fonte": "Quatro Rodas",
@@ -101,19 +114,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Honda Civic Type R 2027 virá ao Brasil mesmo vendendo menos que híbrido",
-      "resumo": "Esportivo virá ao Brasil com melhorias na gestão térmica e com Google nativo, apesar de vender muito menos que o irmão híbrido",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/honda-civic-type-r-2027-vira-ao-brasil-mesmo-vendendo-menos-que-hibrido/",
-      "data": "2026-11-10T16:00:32+00:00",
-      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MzEwMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
