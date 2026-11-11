@@ -1,6 +1,19 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Bicicleta elétrica e patinete precisam de placa ou habilitação? Entenda as regras do Contran",
+      "resumo": "Ter acelerador não transforma automaticamente o veículo em ciclomotor; saiba o que diz a resolução",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/bicicleta-eletrica-patinete-precisam-placa-ou-habilitacao-entenda-regras-contran/",
+      "data": "2026-11-11T00:00:36+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MzU0NzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Titano, Hilux e S10: os papamóveis sul-americanos de Leão XIV",
       "resumo": "Antes de ser papa, Robert Prevost guiava um Fusion manual, uma picape Mahindra e botava a mão na graxa",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQzMTAxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Meritt Thomas",
       "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Aston Martin Valhalla Spider tira o teto, mas preserva o V8 híbrido de 1.064 cv e passa de 350 km/h",
-      "resumo": "Versão conversível do hipercarro híbrido acelera de 0 a 100 km/h em 2,5 segundos e tem entregas previstas para 2027",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/aston-martin-valhalla-spider-conversivel-hibrido-1064-cv/",
-      "data": "2026-11-10T13:30:36+00:00",
-      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0MzEwMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tim Meyer",
-      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
