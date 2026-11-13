@@ -1,6 +1,32 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Aluguel de carro no exterior: o que conferir para evitar cobranças depois da viagem",
+      "resumo": "Multas seguem regras que mudam conforme a locadora e o país; veja o que checar antes de assinar o contrato",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/aluguel-carro-exterior-o-que-conferir-evitar-cobrancas/",
+      "data": "2026-11-13T00:00:21+00:00",
+      "imagem": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1NDA2MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Campbell",
+      "credito_link": "https://unsplash.com/@campful?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "TVS: indiana estreia no Brasil com a Mottu e 4 opções de motocicletas; veja os preços",
+      "resumo": "Ntorq 125, Raider 125, Apache 160 4V e Apache 4V iniciam operação da gigante indiana em nosso mercado",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/815327/tvs-brasil-modelos-precos-motos/",
+      "data": "2026-11-12T23:44:59+00:00",
+      "imagem": "https://images.unsplash.com/photo-1611651338412-8403fa6e3599?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1NDA2MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "redcharlie",
+      "credito_link": "https://unsplash.com/@redcharlie?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "BAIC estreia no Brasil com 50 concessionárias e planos de produção nacional em 2027",
       "resumo": "Fabricante chinesa inicia operação com elétricos Arcfox T1 e T5, prevê centro de engenharia e prepara novos SUVs e tecnologias híbridas",
@@ -105,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Podcast Motor1.com #340: CEO da Carflix revela os impactos dos carros chineses no mercado",
-      "resumo": "Alan Ladeia diz que 15% do inventário da rede já é eletrificado, que o Dolphin Mini é o carro de maior giro e muito mais",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/features/815303/podcast-motor1-340-carflix-chineses/",
-      "data": "2026-11-12T17:18:06+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1MDUyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kahl Orr",
-      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Cadillac Optiq estreia no Brasil em 2027 como SUV de entrada e aposta em tela 9K",
       "resumo": "Feito no México na base do Equinox EV, SUV elétrico completará a trinca de luxo da fabricante no mercado nacional ao lado de Lyriq e Vistiq",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0Mzk4NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kevin Bhagat",
       "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Carros da BYD são usados para espionagem? Entenda a investigação na Europa",
-      "resumo": "Parlamentares europeus pedem investigação sobre dados coletados pelos carros da marca chinesa e querem limitar sua circulação perto de instalações militares",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/parlamento-europeu-investigacao-byd-espionagem-dados/",
-      "data": "2026-11-12T13:00:39+00:00",
-      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0Mzk4NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuvraj Singh",
-      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
