@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Alinhamento das rodas traseiras: o que a medição mostra mesmo quando não há regulagem",
+      "resumo": "Saiba por que medir a traseira pode explicar volante fora do centro e quando pedir a verificação completa",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/alinhamento-rodas-traseiras-o-que-medicao-mostra-mesmo-nao-regulagem/",
+      "data": "2026-11-13T10:00:24+00:00",
+      "imagem": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ0NDc1MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Campbell",
+      "credito_link": "https://unsplash.com/@campful?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Aluguel de carro no exterior: o que conferir para evitar cobranças depois da viagem",
       "resumo": "Multas seguem regras que mudam conforme a locadora e o país; veja o que checar antes de assinar o contrato",
       "fonte": "Quatro Rodas",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0Mzk4NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Jonathan Gallegos",
       "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Chevrolet Brasil terá os primeiros motores híbridos flex da GM no mundo em 2027",
-      "resumo": "Aporte de R$ 10,5 bilhões começará a dar resultado em 2027 com modelos MHEV com os motores 1.0 e 1.2 turbo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/chevrolet-hibrido-flex-2027/",
-      "data": "2026-11-12T14:51:11+00:00",
-      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0Mzk4NDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kevin Bhagat",
-      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
