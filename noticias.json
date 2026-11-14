@@ -1,6 +1,71 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Calmon: Renault Niagara chega com porte de Toro e garantia de 8 anos",
+      "resumo": "Colunista também analisa queda das exportações brasileiras, nova arquitetura elétrica do BMW iX3 e chegada do híbrido Jetour G700",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/815438/coluna-calmon-niagara-ix3-g700/",
+      "data": "2026-11-14T13:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Meritt Thomas",
+      "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Fim dos cabos: Stock Car usa rede 5G móvel com dados em tempo real nas corridas",
+      "resumo": "Stock Car adota tecnologia de rede privada de 5G da Nokia para transmitir a telemetria e vídeos dos carros na pista de corrida em tempo real",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/stock-car-rede-5g-privada-telemetria-tempo-real/",
+      "data": "2026-11-14T12:00:42+00:00",
+      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler Clemmensen",
+      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Jaguar Land Rover perde primeira parte do processo contra BYD após acusar chinesa de plágio",
+      "resumo": "Tribunal ordena que Jaguar Land Rover destrua documentos apreendidos do BYD Ti 7 sob pena de multa milionária, mas disputa por acusação de plágio continua",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/jaguar-land-rover-perde-primeira-parte-do-processo-contra-byd-apos-acusar-chinesa-de-plagio/",
+      "data": "2026-11-14T12:00:32+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTk1MTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Avaliação Voge DS900X: a bigtrail recheada de tecnologia por R$ 73.880",
+      "resumo": "Motor com DNA alemão, a big trail chinesa que repete a receita dos carros chineses",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/reviews/815464/avaliacao-voge-ds900x-brasil-preco/",
+      "data": "2026-11-14T12:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "John Lord Vicente",
+      "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Carro treme ao acelerar: quais são as causas possíveis?",
+      "resumo": "A vibração pode surgir na arrancada, nas retomadas ou acompanhar a velocidade, e cada situação aponta para caminhos diferentes",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/carro-treme-acelerar-quais-sao-as-causas-possiveis/",
+      "data": "2026-11-14T10:00:22+00:00",
+      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler H",
+      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Abastecer de manhã rende mais? O que a temperatura muda no tanque",
       "resumo": "O volume do combustível varia com o calor, e a bomba mede volume; veja o que se sabe sobre o efeito",
@@ -66,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Ram 2500 tem recall no Brasil; falha pode afetar freios, controles de estabilidade e tração",
-      "resumo": "Chamamento envolve 1.024 unidades do ano modelo de 2018; agendamento para substituição do motor da bomba da Unidade de Controle Hidráulico (HCU) está aberto",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/recall-ram-2500-falha-freios-abs-hcu/",
-      "data": "2026-11-13T18:15:21+00:00",
-      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTA1MjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kevin Bhagat",
-      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Flagra: VW T-Roc R-Line roda no Brasil para ajudar a criar o novo SUV Saga",
       "resumo": "Futuro cupê médio terá carroceria com desenho própria e estreia da plataforma MQB37, preparada para híbridos",
@@ -101,58 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1MDUyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Wuling Mini EV: Quanto realmente custaria o “hatch elétrico de R$ 9.900” no Brasil?",
-      "resumo": "Boato nas redes sociais misturou microcarro Aima A05 e subcompacto Wuling Hongguang Mini EV com a promessas de preços inatingíveis no mercado brasileiro",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/wuling-mini-ev-quanto-realmente-custaria-o-hatch-eletrico-de-r-9-900-no-brasil/",
-      "data": "2026-11-13T16:54:56+00:00",
-      "imagem": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1MDUyNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Peter Broomfield",
-      "credito_link": "https://unsplash.com/@peterbroomfield?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Ainda Inédito no mundo, novo Toyota SW4 2027 já roda na Argentina",
-      "resumo": "Flagra perto da fábrica de Zárate (ARG) mostra o SUV de sete lugares que terá visual e interior renovados",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/815427/toyota-sw4-flagra-prototipo-argentina/",
-      "data": "2026-11-13T16:21:47+00:00",
-      "imagem": "https://images.unsplash.com/photo-1532581140115-3e355d1ed1de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NDUwNTI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Kevin Bhagat",
-      "credito_link": "https://unsplash.com/@kevnbhagat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Longa Duração: BYD Dolphin sofre para voltar a andar reto e depende de ajuste no scanner",
-      "resumo": "A suspeita era de que a suspensão do Dolphin tinha algum problema para estar puxando para a direita mas, aparentemente, bastava calibrar sensores da direção",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/testes/longa-duracao-byd-dolphin-sofre-para-voltar-a-andar-reto-e-depende-de-ajuste-no-scanner/",
-      "data": "2026-11-13T15:15:08+00:00",
-      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTA1MjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Felipe Simo",
-      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Novo Mercedes-Benz Classe S 580 4MATIC chega ao Brasil e preço chega a R$ 1,26 milhão",
-      "resumo": "Sedã topo de linha traz V8 híbrido leve de 537 cv, faróis digitais e opção de quatro assentos com console executivo",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/815432/mercedes-benz-classe-s-preco/",
-      "data": "2026-11-13T15:07:25+00:00",
-      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1MDUyNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Ildar Garifullin",
-      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
