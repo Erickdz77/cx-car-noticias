@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Chery fará recall de Tiggo 5X e Omoda 5 na China após modelo soltar eixo traseiro",
+      "resumo": "Chamamento envolve 53.882 unidades produzidas entre 6 de junho de 2022 e 31 de dezembro de 2023; modelos brasileiros estão fora da lista, segundo as marcas",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/chery-recall-tiggo-5x-omoda-5-eixo-traseiro/",
+      "data": "2026-11-14T22:00:30+00:00",
+      "imagem": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NjgyNTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Aaron Huber",
+      "credito_link": "https://unsplash.com/@aahubs?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Audi A8 é descontinuado após 32 anos de produção; entenda o que aconteceu",
       "resumo": "Sem previsão de substituto, a marca alemã fica sem representante no segmento para bater com os concorrentes",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Tyler H",
       "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Abastecer de manhã rende mais? O que a temperatura muda no tanque",
-      "resumo": "O volume do combustível varia com o calor, e a bomba mede volume; veja o que se sabe sobre o efeito",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/abastecer-manha-rende-temperatura-muda-tanque/",
-      "data": "2026-11-14T00:00:26+00:00",
-      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTY5MjQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Joshua Koblin",
-      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
