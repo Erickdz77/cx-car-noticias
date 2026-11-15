@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "O que fez a Rimac desistir do Nevera elétrico para investir nos motores V16 da Bugatti?",
+      "resumo": "Hipercarro elétrico de 1.914 cv teve produção encerrada antes do previsto, enquanto fabricante concentra esforços no Bugatti Tourbillon",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/o-que-fez-a-rimac-desistir-do-nevera-eletrico-para-investir-nos-motores-v16-da-bugatti/",
+      "data": "2026-11-15T20:00:38+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0Nzc3OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Cadillac terá sedã V8 supercharged de 668 cv e SUV elétrico esportivo no Brasil em 2027",
       "resumo": "Marca de luxo da GM trará o sedã CT5-V Blackwing e elétrico esportivo Lyriq-V, enquanto aguarda liberação para o Escalade V8",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NzYxMTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuriy Bogdanov",
       "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Como saber se o seu carro tem recall: passo a passo da consulta e o que fazer depois",
-      "resumo": "A consulta oficial é gratuita e feita pela placa ou pelo chassi; veja o caminho no portal e no aplicativo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/como-saber-carro-tem-recall-consulta-o-que-fazer/",
-      "data": "2026-11-15T00:00:25+00:00",
-      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTk1MTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
