@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Como saber se o seu carro tem recall: passo a passo da consulta e o que fazer depois",
+      "resumo": "A consulta oficial é gratuita e feita pela placa ou pelo chassi; veja o caminho no portal e no aplicativo",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/como-saber-carro-tem-recall-consulta-o-que-fazer/",
+      "data": "2026-11-15T00:00:25+00:00",
+      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NTk1MTk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Chery fará recall de Tiggo 5X e Omoda 5 na China após modelo soltar eixo traseiro",
       "resumo": "Chamamento envolve 53.882 unidades produzidas entre 6 de junho de 2022 e 31 de dezembro de 2023; modelos brasileiros estão fora da lista, segundo as marcas",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1594950195709-a14f66c242d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "John Lord Vicente",
       "credito_link": "https://unsplash.com/@john_vicente26?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Carro treme ao acelerar: quais são as causas possíveis?",
-      "resumo": "A vibração pode surgir na arrancada, nas retomadas ou acompanhar a velocidade, e cada situação aponta para caminhos diferentes",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/carro-treme-acelerar-quais-sao-as-causas-possiveis/",
-      "data": "2026-11-14T10:00:22+00:00",
-      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ1OTUxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler H",
-      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
