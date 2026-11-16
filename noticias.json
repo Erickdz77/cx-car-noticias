@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Posso continuar dirigindo com a luz de injeção acesa? Entenda a diferença entre luz fixa e piscando",
+      "resumo": "O alerta indica que o sistema de diagnóstico detectou uma falha, mas não revela sozinho a gravidade",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/posso-continuar-dirigindo-luz-de-injecao-acesa-diferenca-luz-fixa-e-piscando/",
+      "data": "2026-11-16T00:00:31+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NjgyNTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "O que fez a Rimac desistir do Nevera elétrico para investir nos motores V16 da Bugatti?",
       "resumo": "Hipercarro elétrico de 1.914 cv teve produção encerrada antes do previsto, enquanto fabricante concentra esforços no Bugatti Tourbillon",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625597-7d17be820d0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NzYxMTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Seguro auto de startup custa a partir de R$ 60 e aceita carros antigos rejeitados no mercado",
-      "resumo": "Empresas oferecem coberturas de baixo custo, online e com menos burocracia",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/seguro-auto-de-startup-custa-a-partir-de-r-60-e-aceita-carros-antigos-rejeitados-no-mercado/",
-      "data": "2026-11-15T04:00:18+00:00",
-      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0NzYxMTA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuriy Bogdanov",
-      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
