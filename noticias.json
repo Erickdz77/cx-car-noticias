@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Árvore caiu sobre o carro: a prefeitura, o seguro ou o condomínio paga?",
+      "resumo": "A responsabilidade depende de onde estava a árvore e das circunstâncias da queda",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/arvore-caiu-carro-prefeitura-seguro-condominio-paga/",
+      "data": "2026-11-17T10:00:18+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ5MTI5NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Carro danificado por buraco na rua: quem paga e como pedir indenização",
       "resumo": "O que fazer logo depois do impacto, como comprovar o dano e o que pode entrar no pedido de ressarcimento",
       "fonte": "Quatro Rodas",
@@ -127,19 +140,6 @@
       "imagem": "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ4ODE2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Meritt Thomas",
       "credito_link": "https://unsplash.com/@merittthomas?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Desconto de R$ 138.300: Chevrolet Blazer EV sai quase a preço de Equinox EV",
-      "resumo": "Com ação, preço do SUV elétrico passa de R$ 503.190 para R$ 364.890; novo valor é válido até dezembro",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/chevrolet-blazer-ev-desconto-preco-promocional/",
-      "data": "2026-11-16T16:35:30+00:00",
-      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTQ4NTQ3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tyler Clemmensen",
-      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
