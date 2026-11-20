@@ -2,6 +2,71 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Hipercarro V10 coloca motorista em posição de piloto de moto",
+      "resumo": "Sanrivatti ONE promete 811 cv e velocidade máxima de 330 km/h, mas ainda é apenas um modelo estático e tem lançamento previsto para 2030",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/hipercarro-v10-coloca-motorista-em-posicao-de-piloto-de-moto/",
+      "data": "2026-11-20T16:03:10+00:00",
+      "imagem": "https://images.unsplash.com/photo-1493238792000-8113da705763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTkyNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Evgeny Tchebotarev",
+      "credito_link": "https://unsplash.com/@ev25?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "BYD Shark tem R$ 45.000 de desconto e sai por menos de R$ 300.000",
+      "resumo": "Modelo híbrido plug-in combina motor 1.5 turbo a dois motores elétricos, mas tem capacidade de carga limitada a 790 kg",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/byd-shark-tem-r-45-000-de-desconto-e-sai-por-menos-de-r-300-000/",
+      "data": "2026-11-20T14:00:38+00:00",
+      "imagem": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTkyNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Aaron Huber",
+      "credito_link": "https://unsplash.com/@aahubs?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Volkswagen ID. Polo GTI Clubsport Concept é elétrico com 367 cv e até gaiola",
+      "resumo": "Conceito elétrico de tração dianteira estreia no Salão de Essen com freios carbono-cerâmicos, gaiola de proteção e motor traseiro do ID.7 adaptado na frente",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/vw-id-polo-gti-clubsport-concept-eletrico/",
+      "data": "2026-11-20T12:07:02+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUxOTI2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joey Banks",
+      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Jetour T0: o que já sabemos sobre o novo SUV da marca que chega em 2027",
+      "resumo": "Modelo será o menor da família T, com versões híbrida plug-in e elétrica; equivalente chinês tem dimensões de Compass e Corolla Cross.",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816226/jetour-t0-novo-suv-brasil-2027/",
+      "data": "2026-11-20T11:41:52+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTUxOTI2NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Faltam eletropostos no Brasil? Veja o panorama real de recarga dos carros elétricos",
+      "resumo": "Presidentes de associações do setor e especialistas em infraestrutura revelam se a rede de recarga brasileira acompanha o ritmo de vendas",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/eletropostos-suficientes-brasil-carros-eletricos/",
+      "data": "2026-11-20T11:02:19+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTkyNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Qual é a idade máxima dos carros da autoescola? Entenda os limites para cada categoria",
       "resumo": "Carro de autoescola e carro do aluno seguem regras diferentes de identificação; entenda o que a resolução do Contran prevê",
       "fonte": "Quatro Rodas",
@@ -23,32 +88,6 @@
       "imagem": "https://images.unsplash.com/photo-1752560925914-269c6f90f0a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTMzNTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Luke Miller",
       "credito_link": "https://unsplash.com/@bylukemiller?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Novo BMW X5 honra os motores seis cilindros e iX5 até dispensa o uso de freios",
-      "resumo": "Dirigimos a nova geração do SUV, que estreia arquitetura de 800V no elétrico iX5 e mantém o seis cilindros 3.0 turbo agora com sistema híbrido leve parrudo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/testes/novo-bmw-x5-honra-os-motores-seis-cilindros-e-ix5-ate-dispensa-o-uso-de-freios/",
-      "data": "2026-11-19T20:34:51+00:00",
-      "imagem": "https://images.unsplash.com/photo-1708516893277-232fb2bfb198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTMzNTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Adrian Newell",
-      "credito_link": "https://unsplash.com/@anewevisual?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "O guia para a sua road trip",
-      "resumo": "Viajar de carro é uma delícia, mas, para aproveitar ao máximo, você precisa tomar uma série de cuidados e precauções. Veja nossas dicas",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/especial/o-guia-para-a-sua-road-trip/",
-      "data": "2026-11-19T20:24:06+00:00",
-      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTMzNTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Felipe Simo",
-      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
@@ -92,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Omoda 5 se transforma em Tiggo 5X Fastback na China e tem preço de Mobi",
-      "resumo": "Modelo troca logo na dianteira, abandona sistemas híbridos e convive com Tiggo 5X vendido pela Caoa",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/omoda-5-se-transforma-em-tiggo-5x-fastback-na-china-e-tem-preco-de-mobi/",
-      "data": "2026-11-19T18:00:58+00:00",
-      "imagem": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MTMzNTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Samuele Errico Piccarini",
-      "credito_link": "https://unsplash.com/@samuele_piccarini?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Novo Lamborghini Temerario Spyder inova com teto que melhora a aerodinâmica",
       "resumo": "Conversível possui um teto rígido retrátil que se posiciona verticalmente atrás dos bancos",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "VW Tera supera o T-Cross em vendas e se torna o SUV mais vendido do Brasil",
-      "resumo": "Posição ao final do ano ainda não está garantida e vantagem no momento é de apenas 54 carros",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-tera-supera-o-t-cross-em-vendas-e-se-torna-o-suv-mais-vendido-do-brasil/",
-      "data": "2026-11-19T16:01:35+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk0OTY3MTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Mitsubishi Triton ganha versão especial para o agro; veja preço",
       "resumo": "Produzida em Catalão (GO), nova série especial traz pneus off-road e preparo para Starlink",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ5NjcxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "M1 Numbers: apenas 12% das vendas da Stellanis são de plataformas próprias",
-      "resumo": "Em 2025, 76% dos volumes vieram de arquiteturas herdadas da FCA e PSA; a integração industrial ainda avança lentamente",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/815953/stellantis-vendas-plataformas-proprias-m1numbers/",
-      "data": "2026-11-19T12:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTQ5NjcxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
