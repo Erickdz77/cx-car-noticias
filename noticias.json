@@ -2,6 +2,19 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Como funciona a cabine do Polestar Formula 2030 que muda de posição conforme o modo de condução?",
+      "resumo": "Conceito tem carroceria de quatro portas, cabine que muda conforme a condução e soluções que podem chegar ao Polestar 2 e ao Polestar 7",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/como-funciona-a-cabine-do-polestar-formula-2030-que-muda-de-posicao-conforme-o-modo-de-conducao/",
+      "data": "2026-11-21T11:01:16+00:00",
+      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUyNjIzODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler Clemmensen",
+      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Brasileiros querem comprar os ‘carros elétricos de R$ 10.000’ que a China rejeita",
       "resumo": "Sem airbags, sem testes de colisão e longe da alíquota de 35%, microveículos chineses viram isca de cliques ao serem confundidos com carros de passeio no Brasil",
       "fonte": "Quatro Rodas",
@@ -75,19 +88,6 @@
       "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MDQ5NzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Felipe Simo",
       "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Novo Mercedes GLB 250+ é elétrico, tem 94 estrelas na grade e custa quase R$ 410.000",
-      "resumo": "SUV elétrico da Mercedes-Benz estreia em versão única AMG Line com bateria de 85 kWh, autonomia de 427 km e três telas no painel",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/mercedes-benz-glb-250-eletrico-preco-brasil/",
-      "data": "2026-11-20T17:00:20+00:00",
-      "imagem": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUwNDk3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Campbell",
-      "credito_link": "https://unsplash.com/@campful?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
