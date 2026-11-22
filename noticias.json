@@ -2,6 +2,45 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Renault Megane E-Tech despenca R$ 110.000 e custa menos que usado após emplacar só 11 unidades em 2026",
+      "resumo": "Oferta derruba preço do hatch elétrico para R$ 169.990 enquanto a linha 2027 já estreou na Europa e pode sair de linha no Brasil",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/renault-megane-etech-oferta-169990-futuro-brasil/",
+      "data": "2026-11-22T12:58:18+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzNTI0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joey Banks",
+      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Teste GWM Haval H6 PHEV19: versão mais vendida justifica sucesso do SUV híbrido no Brasil?",
+      "resumo": "Com 326 cv, é uma opção interessante no segmento, mas consumo sem bateria não é exemplar",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/reviews/816166/teste-gwm-haval-h6-phev19flex/",
+      "data": "2026-11-22T12:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTUzNTI0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Blake Meyer",
+      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "ZF cria motor elétrico de 30.000 rpm que usa metade dos ímãs e pesa 25% menos",
+      "resumo": "Sistema High Revolution Drive integra motor, inversor e transmissão, entrega até 272 cv e poderá equipar carros elétricos a partir de 2030",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/zf-high-revolution-drive-motor-eletrico/",
+      "data": "2026-11-22T11:00:23+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzNTI0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Patinete elétrico pode andar na ciclovia? O que diz a regra",
       "resumo": "A regra nacional permite que cada cidade autorize o patinete em ciclovias e ciclofaixas; veja limites, equipamentos e multas",
       "fonte": "Quatro Rodas",
@@ -66,19 +105,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "BYD Ti 7: como é o SUV chinês que revoltou a Land Rover e vem ao Brasil",
-      "resumo": "SUV de sete lugares confirmado para estrear no mercado brasileiro em 2027 tem sistema híbrido plug-in e compartimento térmico na cabine",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/byd-ti-7-suv-hibrido-sete-lugares-defender/",
-      "data": "2026-11-21T14:05:21+00:00",
-      "imagem": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Mjg3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Dhiva Krishna",
-      "credito_link": "https://unsplash.com/@dhivakrishna?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Semana Motor1.com: Toyota Corolla Deck, Jetour nacional, Ranger flex e mais",
       "resumo": "A semana teve ainda Tacoma argentina, Cadillac e debate sobre carregadores em condomínios",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Novo sistema do Contran libera transferência de veículo mesmo com irregularidade",
-      "resumo": "Compradores ganham banco de dados nacional para consulta, proprietários têm retorno gratuito em 30 dias e mudança de cidade dispensa nova inspeção",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/novo-sistema-do-contran-libera-transferencia-de-veiculo-mesmo-com-irregularidade/",
-      "data": "2026-11-21T12:13:50+00:00",
-      "imagem": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Mjg3NTcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Samuele Errico Piccarini",
-      "credito_link": "https://unsplash.com/@samuele_piccarini?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Flagra: GWM Ora 5 terá versão mais barata para enfrentar BYD Dolphin",
       "resumo": "Nova versão do SUV elétrico terá bateria LFP de 45 kWh; estratégia põe pressão sobre o Ora 03",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTUyODc1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Nova Toyota Corolla Deck: o que esperar da nova picape híbrida, que pode ser PHEV",
-      "resumo": "Com lançamento em 2027, projeto compartilhará muito com o SUV Corolla Cross",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/815959/toyota-corolla-deck-picape-detalhes/",
-      "data": "2026-11-21T12:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTUyODc1NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Brandon Atchison",
-      "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
