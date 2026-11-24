@@ -1,6 +1,45 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Saiba quais infrações suspendem a CNH sem somar pontos",
+      "resumo": "Em algumas dessas infrações, a reincidência em 12 meses leva à cassação da CNH; entenda quando isso acontece",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/quais-infracoes-suspendem-cnh-sem-somar-pontos/",
+      "data": "2026-11-24T02:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Mzc5MTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Stefan Rodriguez",
+      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Volkswagen confirma novo Atlas na América Latina em 2027 - E o Brasil?",
+      "resumo": "SUV de sete lugares estreia em 11 mercados da região com motor 2.0 turbo e mais tecnologia, mas ainda não tem previsão para o Brasil",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816532/volkswagen-atlas-confirmado-2027-brasil/",
+      "data": "2026-11-23T23:06:01+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU0OTg5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Brandon Atchison",
+      "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "BYD Dolphin Mini ou Geely EX2? Veja os 20 carros elétricos mais econômicos do Brasil",
+      "resumo": "Cruzamento de preços com dados do PBEV 2026 mostra BYD Dolphin Mini e Geely EX2 na ponta, além de SUVs médios e um sedã entre os mais eficientes do país",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/ranking-carros-eletricos-economicos-brasil/",
+      "data": "2026-11-23T22:38:10+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzNzkxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Volvo tem ofertas para EX30, EX40, XC60 e XC90 com até R$ 90 mil de bônus",
       "resumo": "XC90 recebe o maior benefício, enquanto XC60 tem desconto direto de R$ 90 mil e EX40 fica abaixo dos R$ 290 mil",
@@ -92,19 +131,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Carro é lançado de penhasco, capota 6 vezes e portas ainda abrem; veja o vídeo",
-      "resumo": "Marca da Geely lançou o veículo de um penhasco a 70 km/h e cabine se manteve íntegra",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816502/lynk-co-07-gt-teste-seguranca-penhasco-volvo/",
-      "data": "2026-11-23T17:27:29+00:00",
-      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTJ8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTUzNTI0MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Jonathan Gallegos",
-      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Chevrolet lança Captiva híbrido plug-in com 227 cv e R$ 20.000 mais barato que elétrico",
       "resumo": "Primeiro híbrido plug-in da marca no país é montado no Ceará mas não é flex; preço fica R$ 20.000 abaixo do elétrico",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Yuvraj Singh",
       "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "O guia para a sua road trip",
-      "resumo": "Viajar de carro é uma delícia, mas, para aproveitar ao máximo, você precisa tomar uma série de cuidados e precauções. Veja nossas dicas",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/especial/o-guia-para-a-sua-road-trip/",
-      "data": "2026-11-23T14:00:06+00:00",
-      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjB8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Felipe Simo",
-      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "História da Fiat no Brasil: de Betim ao topo das vendas e liderança de mercado",
-      "resumo": "Revisitamos a jornada da Fiat, de fabricante de um único modelo à mais importante operação da marca no mundo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-classicos/historia-da-fiat-no-brasil-de-betim-ao-topo-das-vendas-e-lideranca-de-mercado/",
-      "data": "2026-11-23T13:00:38+00:00",
-      "imagem": "https://images.unsplash.com/photo-1494905998402-395d579af36f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Lance Asper",
-      "credito_link": "https://unsplash.com/@lance_asper?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
