@@ -2,6 +2,58 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Volvo faz Black Friday com até R$ 95.000 de desconto e XC60 mais barato que EX40",
+      "resumo": "Campanha promocional da Volvo ocorre entre 23 e 28 de novembro e promete condições como descontos, bônus extra e parcelamento especial para toda linha",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/volvo-black-sales-descontos-black-friday/",
+      "data": "2026-11-24T15:00:47+00:00",
+      "imagem": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzOTU2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Peter Broomfield",
+      "credito_link": "https://unsplash.com/@peterbroomfield?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Nova VW Amarok 2027 terá três telas no painel e chassi semi-monobloco para imitar SUVs",
+      "resumo": "Flagra revela visor dedicado ao passageiro na picape derivada da Maxus Interstellar X, que chega em 2027 com motor V6 e opção híbrida",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/segredo/nova-volkswagen-amarok-2027-tres-telas/",
+      "data": "2026-11-24T13:00:17+00:00",
+      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Mzk1NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Håkon Sataøen",
+      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "BYD Ti7 é proibido de ser vendido na Europa por copiar Land Rover Defender",
+      "resumo": "Decisão liminar de tribunal holandês fixa multa de até R$ 64,9 milhões e atinge fábrica na Hungria, mas não impede estreia no Reino Unido em 2027",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/byd-ti7-e-proibido-de-ser-vendido-na-europa-por-copiar-land-rover-defender/",
+      "data": "2026-11-24T12:00:28+00:00",
+      "imagem": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzOTU2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joey Banks",
+      "credito_link": "https://unsplash.com/@joeyabanks?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Pontos na CNH: onde consultar e como entender o resultado",
+      "resumo": "Detrans e o aplicativo federal mostram informações diferentes sobre a habilitação; veja onde consultar e o que observar",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/pontos-cnh-onde-consultar-como-entender-resultado/",
+      "data": "2026-11-24T10:11:35+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583427053896-00378e61e661?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTV8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Mzk1NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Saiba quais infrações suspendem a CNH sem somar pontos",
       "resumo": "Em algumas dessas infrações, a reincidência em 12 meses leva à cassação da CNH; entenda quando isso acontece",
       "fonte": "Quatro Rodas",
@@ -53,19 +105,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Jaecoo 5 tem desconto de R$ 5.000 e fica R$ 15.000 mais barato que o Omoda 5",
-      "resumo": "Ação de Black Friday derruba preço do SUV híbrido pleno para R$ 149.990 na troca pelo usado e coloca o modelo de 224 cv bem abaixo do irmão de plataforma",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/jaecoo-5-desconto-black-friday-omoda/",
-      "data": "2026-11-23T19:53:31+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Ferrari lança duas versões não-híbridas do 296 com até 700 cv",
       "resumo": "Challenge Stradale é feito para as ruas; Challenge Evo, para as pistas",
@@ -105,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Vinfast, fabricante do Vietnã, busca por diretor comercial no Brasil; será que agora vem?",
-      "resumo": "Marca vietnamita abre vaga de diretor-geral adjunto para estruturar concessionárias no país e já tem patente do subcompacto elétrico com design de brasileiro",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/segredo/vinfast-estreia-brasil/",
-      "data": "2026-11-23T17:46:47+00:00",
-      "imagem": "https://images.unsplash.com/photo-1562911791-c7a97b729ec5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Tim Meyer",
-      "credito_link": "https://unsplash.com/@timmeyer?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Geração Futuro: quando acreditar nas pessoas abre caminho para uma nova profissão",
       "resumo": "Em São Paulo, acompanhei uma turma do projeto do Instituto Renault e conheci histórias de quem encontrou na mecânica uma nova carreira",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1617814086906-d847a8bc6fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTM1MjQxOXww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Flavien",
       "credito_link": "https://unsplash.com/@faliven?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Chevrolet lança Captiva híbrido plug-in com 227 cv e R$ 20.000 mais barato que elétrico",
-      "resumo": "Primeiro híbrido plug-in da marca no país é montado no Ceará mas não é flex; preço fica R$ 20.000 abaixo do elétrico",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/chevrolet-lanca-captiva-hibrido-plug-in-com-227-cv-e-r-20-000-mais-barato-que-eletrico/",
-      "data": "2026-11-23T16:00:45+00:00",
-      "imagem": "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Samuele Errico Piccarini",
-      "credito_link": "https://unsplash.com/@samuele_piccarini?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Volkswagen lucra apenas 12 euros por carro, 350 vezes menos que a Mercedes-Benz",
-      "resumo": "Levantamento do instituto CAM revela o lucro operacional por veículo de 15 grupos automotivos e expõe o peso da concorrência chinesa na Europa",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/grupo-volkswagen-lucro-por-carro-mercedes-2026/",
-      "data": "2026-11-23T14:00:56+00:00",
-      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1MzUyNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuvraj Singh",
-      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
