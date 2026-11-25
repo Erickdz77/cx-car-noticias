@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Animais na pista: como agir e quem responde pelos danos em acidentes?",
+      "resumo": "Saiba como sinalizar o local, o que fazer com e sem feridos e de quem cobrar o prejuízo",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/animais-pista-como-agir-quem-responde-acidentes/",
+      "data": "2026-11-25T09:00:51+00:00",
+      "imagem": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjAxMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Aaron Huber",
+      "credito_link": "https://unsplash.com/@aahubs?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Pendência no CPF bloqueia a CNH? Entenda o que é verdade e o que diz a legislação",
+      "resumo": "Bloqueio, suspensão, cassação e cancelamento não são a mesma coisa; saiba como consultar se sua habilitação tem alguma restrição",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/pendencia-no-cpf-bloqueia-a-cnh-entenda-o-que-e-verdade-e-o-que-diz-a-legislacao/",
+      "data": "2026-11-25T02:45:20+00:00",
+      "imagem": "https://images.unsplash.com/photo-1530675706010-bc677ce30ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjAxMTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jonathan Gallegos",
+      "credito_link": "https://unsplash.com/@jonathangallegos?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Flagra: Ford Bronco elétrico promete 1.220 km de autonomia estreia em 2027",
       "resumo": "Variante chinesa do modelo pode estrear no Brasil com conjunto REEV, ou seja, tração elétrica e um motor a gasolina que funciona como gerador",
       "fonte": "Quatro Rodas",
@@ -79,19 +105,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Petrolífera cria motor a combustão sem cabeçote focado em carros híbridos",
-      "resumo": "O projeto de um propulsor para carros híbridos sem cabeçote até 25% mais barato de produzir e que promete reduzir o consumo em até 35%",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/auto-servico/saudi-aramco-pipo-moteurs-motor-combustao-hibrido/",
-      "data": "2026-11-24T17:00:01+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NTY5MjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Importados chineses no Brasil já são o dobro dos vindos da Argentina, mesmo com imposto",
       "resumo": "Importados chineses avançam 101% em 2026, enquanto argentinos, em crise, recuam 14%",
@@ -114,19 +127,6 @@
       "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8OXx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTU2OTIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Håkon Sataøen",
       "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Volvo faz Black Friday com até R$ 95.000 de desconto e XC60 mais barato que EX40",
-      "resumo": "Campanha promocional da Volvo ocorre entre 23 e 28 de novembro e promete condições como descontos, bônus extra e parcelamento especial para toda linha",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/volvo-black-sales-descontos-black-friday/",
-      "data": "2026-11-24T15:00:47+00:00",
-      "imagem": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NXx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTUzOTU2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Peter Broomfield",
-      "credito_link": "https://unsplash.com/@peterbroomfield?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
