@@ -1,6 +1,58 @@
 {
   "noticias": [
     {
+      "categoria": "Supercarros",
+      "titulo": "Dona da Avelloz compra Moto Morini e entra no mercado de alta cilindrada",
+      "resumo": "Grupo brasileiro que controla a quinta marca de motos mais vendida do país assume 70% da operação nacional da italiana",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816821/avelloz-parceira-moto-morini-brasil/",
+      "data": "2026-11-26T11:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTY5NDM5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Jeep Compass tem R$ 37.000 de desconto e fica mais barato que Avenger e Renegade",
+      "resumo": "Promoção reduz o preço do SUV médio para R$ 137.990 para esgotar unidades ano-modelo 2026 até o fim do ano",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/descontos-e-promocoes/jeep-compass-tem-r-37-000-de-desconto-e-passa-a-custar-menos-que-avenger-1-0-turbo/",
+      "data": "2026-11-26T11:00:55+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Njk0Mzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Em baixa no Brasil, Nissan Kicks também perde espaço no México",
+      "resumo": "Apesar do recorde de vendas no país, SUV caiu 49% em outubro; sedãs dominam ranking e irmã da Fiat Titano segue em alta",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816822/nissan-kicks-despenca-vendas-mexico/",
+      "data": "2026-11-26T10:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU2OTQzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Brandon Atchison",
+      "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Leilão do Detran: como funciona a compra de carros apreendidos e quais cuidados tomar",
+      "resumo": "Saiba como como participar, o que mudou com a nova regra do Contran e o que conferir antes do lance",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/leilao-detran-como-funciona-compra-de-carros-apreendidos-quais-cuidados-tomar/",
+      "data": "2026-11-26T10:00:26+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTU2OTQzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Lançamentos",
       "titulo": "Ford confirma Bronco elétrico para 2027 com mais de 400 cv e ‘DNA off-road’",
       "resumo": "Modelo, que deve ficar acima do Bronco convencional, vai adotar motorização elétrica com extensor de alcance que promete autonomia de 1.200 km",
@@ -92,32 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Ford terá Bronco de 1.200 km no Brasil com motor a gasolina que não move as rodas",
-      "resumo": "Novo Basecamp chega em 2027 com mais de 400 cv e terá sistema que usa motor a combustão só como gerador de energia",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816809/ford-confirma-bronco-erev-brasil/",
-      "data": "2026-11-25T18:44:23+00:00",
-      "imagem": "https://images.unsplash.com/photo-1617814086906-d847a8bc6fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTQ5ODk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Flavien",
-      "credito_link": "https://unsplash.com/@faliven?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Ford vai transformar Territory em família com PHEV flex e 7 lugares",
-      "resumo": "Previstos para 2027, novos modelos vão ser vendidos ao lado do atual a gasolina",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816803/ford-territory-ganha-versao-hibrida/",
-      "data": "2026-11-25T18:03:24+00:00",
-      "imagem": "https://images.unsplash.com/photo-1579508542697-bb18e7d9aeaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU0OTg5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Ildar Garifullin",
-      "credito_link": "https://unsplash.com/@garilens?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Ford confirma 20 lançamentos no Brasil; Territory HEV, PHEV e 7 lugares e Bronco REEV chegam em 2027",
       "resumo": "Modelos englobam motorizações híbridas flex para Ranger e Territory, além de opção elétrica com extensor de autonomia para o Bronco",
@@ -127,32 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Novo VW Tiguan R-Line passa de R$ 300.000 após primeiro aumento",
-      "resumo": "Importado do México, SUV médio a combustão encarece R$ 9.600 na tabela e agora desafia híbridos plug-in chineses partindo de R$ 309.590",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-tiguan-r-line-fica-mais-caro-preco/",
-      "data": "2026-11-25T15:15:21+00:00",
-      "imagem": "https://images.unsplash.com/photo-1708516893277-232fb2bfb198?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjl8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Adrian Newell",
-      "credito_link": "https://unsplash.com/@anewevisual?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Os segredos para o BMW iX3 ter quase dobrado sua autonomia em teste no Brasil",
-      "resumo": "SUV elétrico quase dobrou a autonomia de 570 km do Inmetro entre Brasília e São Paulo",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/os-segredos-para-o-bmw-ix3-ter-quase-dobrado-sua-autonomia-em-teste-no-brasil/",
-      "data": "2026-11-25T13:45:49+00:00",
-      "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Stefan Rodriguez",
-      "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
