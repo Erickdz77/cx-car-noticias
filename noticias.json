@@ -1,6 +1,84 @@
 {
   "noticias": [
     {
+      "categoria": "Lançamentos",
+      "titulo": "Ford confirma Bronco elétrico para 2027 com mais de 400 cv e ‘DNA off-road’",
+      "resumo": "Modelo, que deve ficar acima do Bronco convencional, vai adotar motorização elétrica com extensor de alcance que promete autonomia de 1.200 km",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/ford-confirma-bronco-eletrico-para-2027-com-mais-de-400-cv-e-dna-off-road/",
+      "data": "2026-11-26T00:00:15+00:00",
+      "imagem": "https://images.unsplash.com/photo-1519440862171-af26cf8c2a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjZ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjYxODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Yuriy Bogdanov",
+      "credito_link": "https://unsplash.com/@profepix?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Podcast Motor1 #342: a picape do Corolla vem aí! Toyota pode ameaçar a Fiat Toro? ASSISTA!",
+      "resumo": "Nova Corolla Deck entra na disputa com Tukan, Mako e Niagara; episódio também debate o Captiva PHEV",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/features/816812/podcast-chevrolet-captiva-atto2-corolladeck/",
+      "data": "2026-11-25T22:01:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1571607388263-1044f9ea01dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU2NjE4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Felipe Simo",
+      "credito_link": "https://unsplash.com/@felipesimo?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Ford Territory 2027 terá versões híbridas flex e opção de 7 lugares no Brasil",
+      "resumo": "Ford Territory terá quatro novas versões no Brasil em 2027, incluindo opções híbridas plena e plug-in, e configuração de sete lugares",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/noticias/ford-territory-hibrido-flex-sete-lugares/",
+      "data": "2026-11-25T22:00:50+00:00",
+      "imagem": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTU2NjE4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Joshua Koblin",
+      "credito_link": "https://unsplash.com/@joshkoblin?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Ciro Possobom deixa comando da Volkswagen do Brasil após ciclo de transformação",
+      "resumo": "Decisão de caráter pessoal e familiar encerra trajetória de sete anos e meio na empresa; Alexander Seitz assume interinamente",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816815/ciro-possobom-volkswagen-brasil-saida/",
+      "data": "2026-11-25T21:36:43+00:00",
+      "imagem": "https://images.unsplash.com/photo-1766353134008-bb3b8b99ddd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8M3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTY2MTg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Paul Lichtblau",
+      "credito_link": "https://unsplash.com/@laup?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "GWM Ora 7 estreia como sedã e perua com preço de Chevrolet Onix básico",
+      "resumo": "À venda na China, os modelos são maiores do que um Haval H6 e prometem autonomias próximas aos 600 km",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/gwm-ora-7-estreia-como-seda-e-perua-com-preco-de-chevrolet-onix-basico/",
+      "data": "2026-11-25T20:29:49+00:00",
+      "imagem": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8NHx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTU2NjE4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler Clemmensen",
+      "credito_link": "https://unsplash.com/@tyler_clemmensen?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Supercarros",
+      "titulo": "Fiat revive a Autobianchi, marca italiana que usava motor do 147… com turbo!",
+      "resumo": "Nova versão topo de linha do Pandina tem motivações que vão além da nostalgia",
+      "fonte": "Motor1 Brasil",
+      "link": "https://motor1.uol.com.br/news/816772/fiat-revive-nome-historico-panda/",
+      "data": "2026-11-25T20:00:00+00:00",
+      "imagem": "https://images.unsplash.com/photo-1555215695-3004980ad54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTR8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU2NjE4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Jon Koop",
+      "credito_link": "https://unsplash.com/@jon_koop?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
       "categoria": "Supercarros",
       "titulo": "Best Of The Best Motor1.com 2026: Veja os finalistas de carros e motos de cada categoria",
       "resumo": "A premiação acontece em 16 de dezembro, com votos até o dia 14",
@@ -40,32 +118,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Supercarros",
-      "titulo": "Volkswagen quer atualizar o software de seus carros a cada três meses",
-      "resumo": "Arquitetura eletrônica desenvolvida na China virá à América do Sul",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816794/vw-atualizacao-software-tres-meses/",
-      "data": "2026-11-25T18:00:00+00:00",
-      "imagem": "https://images.unsplash.com/photo-1570280406792-bf58b7c59247?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjh8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU0OTg5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Toni Zaat",
-      "credito_link": "https://unsplash.com/@tonizaat?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Ford F-150 Raptor tem pré-venda confirmada para abril de 2027 no Brasil",
-      "resumo": "Versão extrema da picape terá motor 3.5 V6 biturbo de 456 cv e suspensão de competição",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816805/ford-f150-raptor-prevenda-brasil/",
-      "data": "2026-11-25T17:50:14+00:00",
-      "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU0OTg5NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Brandon Atchison",
-      "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Lançamentos",
       "titulo": "Ford confirma 20 lançamentos no Brasil; Territory HEV, PHEV e 7 lugares e Bronco REEV chegam em 2027",
       "resumo": "Modelos englobam motorizações híbridas flex para Ranger e Territory, além de opção elétrica com extensor de autonomia para o Bronco",
@@ -75,19 +127,6 @@
       "imagem": "https://images.unsplash.com/photo-1592853625601-bb9d23da12fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Kahl Orr",
       "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Supercarros",
-      "titulo": "Mesmo após ameaçar fechar fábricas, dona de Fiat e RAM vai fazer motor da Titano na Argentina",
-      "resumo": "Mesmo com queda nas vendas das picapes, grupo inaugurou nova linha de motores em Córdoba",
-      "fonte": "Motor1 Brasil",
-      "link": "https://motor1.uol.com.br/news/816773/fiat-ram-motor-diesel-argentina/",
-      "data": "2026-11-25T16:45:32+00:00",
-      "imagem": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8N3x8c3VwZXJjYXJ8ZW58MHwwfHx8MTc5NTQ5ODk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Goh Rhy Yan",
-      "credito_link": "https://unsplash.com/@gohrhyyan?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
@@ -114,45 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTF8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Stefan Rodriguez",
       "credito_link": "https://unsplash.com/@stefantakespictures?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Saga híbrido: VW confirma motor 1.5 TSI HEV flex",
-      "resumo": "Novo SUV cupê será maior que o Nivus e inaugura motorização híbrida flex no Brasil",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/vw-saga-suv-cupe-hibrido-flex-brasil/",
-      "data": "2026-11-25T13:09:04+00:00",
-      "imagem": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjJ8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Håkon Sataøen",
-      "credito_link": "https://unsplash.com/@haakon?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "BYD Dolphin SE tem aumento de R$ 14.000 e fica mais caro que Atto 2 completo",
-      "resumo": "Versão intermediária do hatch elétrico estreou por R$ 159.990 em abril, acumula alta de R$ 14.000 e hoje supera até o Atto 2 GS híbrido plug-in flex",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/byd-dolphin-se-tem-aumento-de-r-14-000-e-fica-mais-caro-que-atto-2-completo/",
-      "data": "2026-11-25T12:15:41+00:00",
-      "imagem": "https://images.unsplash.com/photo-1493238792000-8113da705763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTN8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Evgeny Tchebotarev",
-      "credito_link": "https://unsplash.com/@ev25?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Denza Bao 3 fará estreia mundial no Brasil em 2027 e só com tração traseira",
-      "resumo": "SUV elétrico da divisão de luxo da BYD tem arquitetura de 800 V, bateria que recarrega em 9 minutos e entrará em pré-venda no dia 1º de dezembro",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-eletricos/denza-bao-3-fara-estreia-mundial-no-brasil-em-2027-e-so-com-tracao-traseira/",
-      "data": "2026-11-25T11:00:47+00:00",
-      "imagem": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mjd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1NjM2ODg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Blake Meyer",
-      "credito_link": "https://unsplash.com/@artisan_100?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
