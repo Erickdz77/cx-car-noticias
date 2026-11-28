@@ -2,6 +2,32 @@
   "noticias": [
     {
       "categoria": "Lançamentos",
+      "titulo": "Cassação da CNH: o que faz o motorista perder a habilitação e como voltar a dirigir?",
+      "resumo": "A cassação não depende de pontos, mas de situações específicas previstas no CTB; saiba quais são",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/auto-servico/cassacao-cnh-o-que-faz-motorista-perder-habilitacao-como-voltar-dirigir/",
+      "data": "2026-11-28T00:00:35+00:00",
+      "imagem": "https://images.unsplash.com/photo-1592853625511-ad0edcc69c07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MjR8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1ODM4NjIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Kahl Orr",
+      "credito_link": "https://unsplash.com/@kahlorr?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
+      "titulo": "Mini carro elétrico chinês já está no Brasil, mas é mais caro do que você pensa",
+      "resumo": "Modelo compacto tem 8 cv de potência, vai até 60 km/h e promete até 120 km de autonomia",
+      "fonte": "Quatro Rodas",
+      "link": "https://quatrorodas.abril.com.br/carros-eletricos/oek-ev-600-cargo-mini-utilitario-eletrico-chines-brasil/",
+      "data": "2026-11-27T22:59:14+00:00",
+      "imagem": "https://images.unsplash.com/photo-1773866117133-c0b3c85e2af1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Nnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTU4Mzg2MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "credito": "Tyler H",
+      "credito_link": "https://unsplash.com/@tyler_excellent_photography?utm_source=cx_car_noticias&utm_medium=referral",
+      "fonte_foto": "Unsplash",
+      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
+    },
+    {
+      "categoria": "Lançamentos",
       "titulo": "Vazou: Novo Honda Accord ganhará ‘visual chinês’ e estreará logotipo ‘sem borda’",
       "resumo": "Registros mostram reestilização profunda da dianteira do sedã, que adota a tendência de design chinesa; motorização híbrida com 2.0 aspirado é mantida",
       "fonte": "Quatro Rodas",
@@ -118,19 +144,6 @@
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     },
     {
-      "categoria": "Lançamentos",
-      "titulo": "Yaris, Cronos, Aircross, Jimny e Tiggo 2 custavam R$ 70.000 em 2019; quanto valem hoje?",
-      "resumo": "Revisitamos o comparativo com Toyota Yaris, Fiat Cronos, Citroën AirCross, Suzuki Jimny e Caoa Chery Tiggo 2 para ver como estão os preços na Fipe",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/carros-usados/yaris-cronos-aircross-jimny-e-tiggo-2-custavam-r-70-000-em-2019-quanto-valem-hoje/",
-      "data": "2026-11-27T13:40:56+00:00",
-      "imagem": "https://images.unsplash.com/photo-1508974239320-0a029497e820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MTd8fHNwb3J0cyUyMGNhcnxlbnwwfDB8fHwxNzk1Njk0Mzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Yuvraj Singh",
-      "credito_link": "https://unsplash.com/@yxvi?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
       "categoria": "Supercarros",
       "titulo": "Nissan lança NX7 na China com 1.666 km de autonomia e 228 cv; vem para o mercado brasileiro?",
       "resumo": "SUV híbrido plug-in da Dongfeng Nissan estreia com bateria de 40,95 kWh, LiDAR e tela de 17,3\" ; maior, NX8 já roda no Brasil",
@@ -140,19 +153,6 @@
       "imagem": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8MzB8fHN1cGVyY2FyfGVufDB8MHx8fDE3OTU2OTQzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "credito": "Brandon Atchison",
       "credito_link": "https://unsplash.com/@b_atchison98?utm_source=cx_car_noticias&utm_medium=referral",
-      "fonte_foto": "Unsplash",
-      "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
-    },
-    {
-      "categoria": "Lançamentos",
-      "titulo": "Por que a Tukan não será o primeiro carro híbrido da VW no Brasil?",
-      "resumo": "De acordo com a marca, seu primeiro híbrido nacional será um modelo previsto para a segunda metade de 2027",
-      "fonte": "Quatro Rodas",
-      "link": "https://quatrorodas.abril.com.br/noticias/por-que-a-tukan-nao-sera-o-primeiro-carro-hibrido-da-vw-no-brasil/",
-      "data": "2026-11-27T12:30:02+00:00",
-      "imagem": "https://images.unsplash.com/photo-1542362567-b07e54358753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTEwNjU4fDB8MXxzZWFyY2h8Mnx8c3BvcnRzJTIwY2FyfGVufDB8MHx8fDE3OTU3ODU5MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "credito": "Olav Tvedt",
-      "credito_link": "https://unsplash.com/@olav_tvedt?utm_source=cx_car_noticias&utm_medium=referral",
       "fonte_foto": "Unsplash",
       "fonte_foto_link": "https://unsplash.com/?utm_source=cx_car_noticias&utm_medium=referral"
     }
